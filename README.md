@@ -4,4 +4,4 @@ https://wechat2rss.xlab.app
 
 目前收录一些安全/开发相关的公众号
 
-欢迎推荐
+欢迎[推荐](https://github.com/ttttmr/wechat2rss/issues)
