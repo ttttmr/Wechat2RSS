@@ -7,3 +7,9 @@ https://wechat2rss.xlab.app
 [已收录目录](list)
 
 欢迎[推荐](https://github.com/ttttmr/wechat2rss/issues)
+
+## Thanks
+
+[DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 提供部分公众号信息
+
+[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) 参考部分代码思路
