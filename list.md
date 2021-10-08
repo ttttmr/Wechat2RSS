@@ -467,3 +467,7 @@
 [嘶吼专业版](https://wechat2rss.xlab.app/feed/d351be711510e0b7ccbcb275cdfab5c4c7e3e839.xml)
 
 [Rapid7](https://wechat2rss.xlab.app/feed/0060dbbf4244fc99ca332d9aa76acfe89ba7b415.xml)
+
+[深信服千里目安全实验室](https://wechat2rss.xlab.app/feed/027c7f3b98d9d0f2db84513f0cb94f02e9a8a3d7.xml)
+
+[觉学社](https://wechat2rss.xlab.app/feed/238759eb3e9d042d4e1ef515cfc3686c977c6ddd.xml)
