@@ -475,3 +475,5 @@
 [凌晨一点零三分](https://wechat2rss.xlab.app/feed/02330475f466041c89e4db3abdf4ce9b1311a6cb.xml)
 
 [默安玄甲实验室](https://wechat2rss.xlab.app/feed/181cb187893448582b37198afeadd4c4cf0750a9.xml)
+
+[安全行者老霍](https://wechat2rss.xlab.app/feed/82cb8f76f8e4d0ca29f497944330ef57aa1f22db.xml)
