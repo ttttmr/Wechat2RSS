@@ -326,8 +326,6 @@
 
 [安全牛](https://wechat2rss.xlab.app/feed/10f1ba549b70cdb4216f7ade606d30a813305aa1.xml)
 
-[维他命安全](https://wechat2rss.xlab.app/feed/bf34f3a5cb1be5b604c5629c42b5f1c27c4ecaa7.xml)
-
 [安全圈](https://wechat2rss.xlab.app/feed/d568d6fca93d750898111f09cc3c551e7a62f7ab.xml)
 
 [网信军民融合](https://wechat2rss.xlab.app/feed/0c01ac36bf3a4f3153d8c568e1255b9e91825688.xml)
