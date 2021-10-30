@@ -196,8 +196,6 @@
 
 [漏洞战争](https://wechat2rss.xlab.app/feed/a884cb33e3393db2f683c48d82012836295ec005.xml)
 
-[奇安信集团](https://wechat2rss.xlab.app/feed/ca50fc8c94c2609985336bdfd8ebd4b1725e2c5c.xml)
-
 [认知独省](https://wechat2rss.xlab.app/feed/83f81eece114fa0cb211ab5379fda72760dc5b68.xml)
 
 [情报小蜜蜂](https://wechat2rss.xlab.app/feed/78f3da7a79babd1ab1a2831f37718630f41b77b5.xml)
