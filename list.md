@@ -477,3 +477,5 @@
 [娜璋AI安全之家](https://wechat2rss.xlab.app/feed/ac86a71f04b6d10cc5a87ec9ecc8c94fff5d80d1.xml)
 
 [赛博回忆录](https://wechat2rss.xlab.app/feed/b2fd128a6c259f160f380ffe90c17ce05bdc780f.xml)
+
+[Yak Project](https://wechat2rss.xlab.app/feed/1800f529b600474a4cd0434c65654c483739e192.xml)
