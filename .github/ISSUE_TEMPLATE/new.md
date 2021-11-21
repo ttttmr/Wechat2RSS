@@ -9,8 +9,8 @@ assignees: ''
 
 **在提交之前，请确认**
 
-[ ] [RSSHub](https://docs.rsshub.app/)没有相关内容
-[ ] 没有可替代的Web页面
+- [ ] [RSSHub](https://docs.rsshub.app/)没有相关内容
+- [ ] 没有可替代的Web页面
 
 有Web页面，建议使用 https://feed43.com/ 制作RSS
 
