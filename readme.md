@@ -8,6 +8,10 @@ https://wechat2rss.xlab.app
 
 欢迎[推荐](https://github.com/ttttmr/wechat2rss/issues)
 
+## 订阅合集
+
+部分安全相关公众号 https://www.inoreader.com/bundle/0014cd641489
+
 ## Thanks
 
 [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 提供部分公众号信息
