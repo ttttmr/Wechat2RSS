@@ -481,3 +481,5 @@
 [Yak Project](https://wechat2rss.xlab.app/feed/1800f529b600474a4cd0434c65654c483739e192.xml)
 
 [小众软件](https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml)
+
+[关注米柚更新](https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml)
