@@ -483,3 +483,5 @@
 [小众软件](https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml)
 
 [关注米柚更新](https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml)
+
+[海边的西赛罗](https://wechat2rss.xlab.app/feed/5e25483b324ae2d39510555465b12a2b2dfa4000.xml)
