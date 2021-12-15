@@ -485,3 +485,5 @@
 [关注米柚更新](https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml)
 
 [海边的西赛罗](https://wechat2rss.xlab.app/feed/5e25483b324ae2d39510555465b12a2b2dfa4000.xml)
+
+[分类乐色桶](https://wechat2rss.xlab.app/feed/5978638470af63bf67edad170b4e8e9eb945b948.xml)
