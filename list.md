@@ -487,3 +487,5 @@
 [海边的西赛罗](https://wechat2rss.xlab.app/feed/5e25483b324ae2d39510555465b12a2b2dfa4000.xml)
 
 [分类乐色桶](https://wechat2rss.xlab.app/feed/5978638470af63bf67edad170b4e8e9eb945b948.xml)
+
+[乐枕迭代日志](https://wechat2rss.xlab.app/feed/91295bd6da13eb5cd50a544a9d3df76f6f863fac.xml)
