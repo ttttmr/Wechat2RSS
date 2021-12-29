@@ -491,3 +491,5 @@
 [乐枕迭代日志](https://wechat2rss.xlab.app/feed/91295bd6da13eb5cd50a544a9d3df76f6f863fac.xml)
 
 [Moonlight Bug Hunter](https://wechat2rss.xlab.app/feed/ce1158cdf6e3de068710ceb93a3961618f7e4360.xml)
+
+[网安国际](https://wechat2rss.xlab.app/feed/6fa942a9bdf8d6e67cf9b051ed3fae441ddb2bae.xml)
