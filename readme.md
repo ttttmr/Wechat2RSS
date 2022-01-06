@@ -2,11 +2,13 @@
 
 https://wechat2rss.xlab.app
 
-目前收录一些安全/开发相关的公众号
+目前收录了一些安全/开发相关的公众号
 
-[已收录目录](list)
+[已收录公众号目录](https://wechat2rss.xlab.app/#/list)
 
-欢迎[推荐](https://github.com/ttttmr/wechat2rss/issues)
+推荐[watch本仓库](https://github.com/ttttmr/wechat2rss)订阅最新的公众号RSS
+
+欢迎[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)
 
 ## 订阅合集
 
