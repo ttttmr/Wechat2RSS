@@ -495,3 +495,5 @@
 [网安国际](https://wechat2rss.xlab.app/feed/6fa942a9bdf8d6e67cf9b051ed3fae441ddb2bae.xml)
 
 [先生制造](https://wechat2rss.xlab.app/feed/313326d41db4f54b1cc09e7c986a5ac4e5f88ca0.xml)
+
+[b1ngz的笔记本](https://wechat2rss.xlab.app/feed/985deae60a431c56b6d8b4a8f7e5623a6b7dd948.xml)
