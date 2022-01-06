@@ -497,3 +497,5 @@
 [先生制造](https://wechat2rss.xlab.app/feed/313326d41db4f54b1cc09e7c986a5ac4e5f88ca0.xml)
 
 [b1ngz的笔记本](https://wechat2rss.xlab.app/feed/985deae60a431c56b6d8b4a8f7e5623a6b7dd948.xml)
+
+[长赢指数投资](https://wechat2rss.xlab.app/feed/1f35edb36dfda13906f958fc3047e59ce9c234fe.xml)
