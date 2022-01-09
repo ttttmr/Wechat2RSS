@@ -505,3 +505,5 @@
 [跳动的计算器](https://wechat2rss.xlab.app/feed/f3ace422519a0db0d5848415f0ad2e36ecf2c069.xml)
 
 [小火箭](https://wechat2rss.xlab.app/feed/ebbf3f8891e7d70626c75dca7b92dd6c075663d5.xml)
+
+[卢瑟经济学之安生杂谈](https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml)
