@@ -503,3 +503,5 @@
 [且听安全](https://wechat2rss.xlab.app/feed/88ffe63b5cffb34f8096461bdeaea02049987c70.xml)
 
 [跳动的计算器](https://wechat2rss.xlab.app/feed/f3ace422519a0db0d5848415f0ad2e36ecf2c069.xml)
+
+[小火箭](https://wechat2rss.xlab.app/feed/ebbf3f8891e7d70626c75dca7b92dd6c075663d5.xml)
