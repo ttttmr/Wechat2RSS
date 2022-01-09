@@ -509,3 +509,5 @@
 [卢瑟经济学之安生杂谈](https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml)
 
 [邱贞玮](https://wechat2rss.xlab.app/feed/6451f06f5dffd44946bbdc407cf9605396f83437.xml)
+
+[方方的航空小筑](https://wechat2rss.xlab.app/feed/b146ee0c6a719d7d3d86c93f4fdd4ca27b91baa2.xml)
