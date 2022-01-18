@@ -513,3 +513,5 @@
 [方方的航空小筑](https://wechat2rss.xlab.app/feed/b146ee0c6a719d7d3d86c93f4fdd4ca27b91baa2.xml)
 
 [大水来](https://wechat2rss.xlab.app/feed/1cd29c6df63ddc61880618cf57ed7198aa3c76d3.xml)
+
+[白日放歌须纵9](https://wechat2rss.xlab.app/feed/fbb786b3c5d138ed27a7ca2f9734cfc90e9b9417.xml)
