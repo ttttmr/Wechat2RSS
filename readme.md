@@ -14,6 +14,10 @@ https://wechat2rss.xlab.app
 
 部分安全相关公众号 https://www.inoreader.com/bundle/0014cd641489
 
+## 独立RSS
+
+[先知社区RSS](https://xianzhi2rss.xlab.app/feed.xml)
+
 ## Thanks
 
 [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 提供部分公众号信息
