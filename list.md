@@ -515,3 +515,5 @@
 [大水来](https://wechat2rss.xlab.app/feed/1cd29c6df63ddc61880618cf57ed7198aa3c76d3.xml)
 
 [白日放歌须纵9](https://wechat2rss.xlab.app/feed/fbb786b3c5d138ed27a7ca2f9734cfc90e9b9417.xml)
+
+[零鉴科技](https://wechat2rss.xlab.app/feed/f7f4ab7bdc8c827727561bd14ed6c26ad0624a6f.xml)
