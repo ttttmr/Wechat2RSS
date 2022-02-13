@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /feed/
-Disallow: /*.md$
-Disallow: /*.js$
-Disallow: /*.png$
