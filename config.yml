@@ -53,9 +53,13 @@ params:
     icon: /favicon.ico
     iconHeight: 35
 
+  # homeInfoParams:
+    # Title: "微信公众号转RSS服务"
+    # Content: https://wechat2rss.xlab.app
+
   socialIcons:
     - name: github
-      url: "https://github.com/ttttmr"
+      url: "https://github.com/ttttmr/wechat2rss"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -79,13 +83,13 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: 列表
-      name: 列表
-      url: /list/
-      weight: 10
     - identifier: Blog
       name: Blog
       url: https://blog.xlab.app
+      weight: 30
+    - identifier: GitHub
+      name: GitHub
+      url: https://github.com/ttttmr/wechat2rss
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
