@@ -1,1 +1,1 @@
-content/index.md
+content/posts/readme.md

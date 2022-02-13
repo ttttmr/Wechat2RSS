@@ -1,5 +1,6 @@
 ---
 title: 公众号列表
+weight: 2
 ---
 
 [思想花火](https://wechat2rss.xlab.app/feed/5b925323244e9737c39285596c53e3a2f4a30774.xml)
