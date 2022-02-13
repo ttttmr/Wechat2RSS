@@ -10,7 +10,7 @@ https://wechat2rss.xlab.app
 
 ## 收录列表
 
-https://wechat2rss.xlab.app/lis
+https://wechat2rss.xlab.app/list
 
 ## 订阅合集
 
