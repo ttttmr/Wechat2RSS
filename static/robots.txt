@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /feed/
+Disallow: *.png$
+
+Sitemap: https://wechat2rss.xlab.app/sitemap.xml
