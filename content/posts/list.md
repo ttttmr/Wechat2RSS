@@ -526,3 +526,5 @@ weight: 2
 [落日间](https://wechat2rss.xlab.app/feed/9c4b3d62a24fdf1863421984ad23e0c63e317614.xml)
 
 [Delphi研习社](https://wechat2rss.xlab.app/feed/d37a196db182852e509df92cdd89030481a2fa96.xml)
+
+[青藤技术服务](https://wechat2rss.xlab.app/feed/1063f6d607a637eb0ddc129b58bd081820dd31cb.xml)
