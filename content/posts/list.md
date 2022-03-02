@@ -530,3 +530,5 @@ weight: 2
 [青藤技术服务](https://wechat2rss.xlab.app/feed/1063f6d607a637eb0ddc129b58bd081820dd31cb.xml)
 
 [天问记事簿](https://wechat2rss.xlab.app/feed/a6b4c4531776fa4f4e837ca1fd56e5acd1df8f54.xml)
+
+[寒雁Talk](https://wechat2rss.xlab.app/feed/bbbe847b63f498801792fb7a08d67d0fbf167a04.xml)
