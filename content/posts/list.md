@@ -532,3 +532,5 @@ weight: 2
 [天问记事簿](https://wechat2rss.xlab.app/feed/a6b4c4531776fa4f4e837ca1fd56e5acd1df8f54.xml)
 
 [寒雁Talk](https://wechat2rss.xlab.app/feed/bbbe847b63f498801792fb7a08d67d0fbf167a04.xml)
+
+[逻辑与现实经济](https://wechat2rss.xlab.app/feed/07cd3971227a35b5c35cd94d1961790dad9a87c7.xml)
