@@ -538,3 +538,5 @@ weight: 2
 [技术猫屋](https://wechat2rss.xlab.app/feed/c48bba56bd4329af4db5c7b0eacf3d2f1c43c8df.xml)
 
 [哔哩哔哩技术](https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml)
+
+[从零开始定投日记](https://wechat2rss.xlab.app/feed/0d2c5982deb01d2295ecf8f4891c9cb75d8d8ba3.xml)
