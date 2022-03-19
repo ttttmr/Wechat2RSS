@@ -279,8 +279,6 @@ weight: 2
 
 [小议安全](https://wechat2rss.xlab.app/feed/7a1064e1b9d394f6508a3d4f98475d9f12ce655f.xml)
 
-[APT攻击](https://wechat2rss.xlab.app/feed/54a83613a320eba6bef5bec8e44ecf81b33ed7c3.xml)
-
 [安全研究GoSSIP](https://wechat2rss.xlab.app/feed/ac4004481c5b78892663e13bb3af8422d4ebeb68.xml)
 
 [赛博少女](https://wechat2rss.xlab.app/feed/f17b52a78a32b532f0d7729e6cf7d94a669c1d53.xml)
