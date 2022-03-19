@@ -540,3 +540,5 @@ weight: 2
 [从零开始定投日记](https://wechat2rss.xlab.app/feed/0d2c5982deb01d2295ecf8f4891c9cb75d8d8ba3.xml)
 
 [LoRexxar自留地](https://wechat2rss.xlab.app/feed/629b8dab22be680d1ae8b1b0e597043a7d0757b7.xml)
+
+[毕方安全实验室](https://wechat2rss.xlab.app/feed/e30371f4b2e600a87cb0718d649d6c43411622b3.xml)
