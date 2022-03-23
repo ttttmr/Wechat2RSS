@@ -542,3 +542,5 @@ weight: 2
 [LoRexxar自留地](https://wechat2rss.xlab.app/feed/629b8dab22be680d1ae8b1b0e597043a7d0757b7.xml)
 
 [毕方安全实验室](https://wechat2rss.xlab.app/feed/e30371f4b2e600a87cb0718d649d6c43411622b3.xml)
+
+[天玄安全实验室](https://wechat2rss.xlab.app/feed/6756212c81a850d9ee50d69cb4036b6a6f70f31b.xml)
