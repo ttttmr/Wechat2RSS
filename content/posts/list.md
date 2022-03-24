@@ -544,3 +544,5 @@ weight: 2
 [毕方安全实验室](https://wechat2rss.xlab.app/feed/e30371f4b2e600a87cb0718d649d6c43411622b3.xml)
 
 [天玄安全实验室](https://wechat2rss.xlab.app/feed/6756212c81a850d9ee50d69cb4036b6a6f70f31b.xml)
+
+[墨菲安全](https://wechat2rss.xlab.app/feed/e7d4a6f783d2e42b91a70a9f802e590444d62952.xml)
