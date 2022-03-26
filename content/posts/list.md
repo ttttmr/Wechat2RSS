@@ -548,3 +548,5 @@ weight: 2
 [墨菲安全](https://wechat2rss.xlab.app/feed/e7d4a6f783d2e42b91a70a9f802e590444d62952.xml)
 
 [王小明的事](https://wechat2rss.xlab.app/feed/4d5625268306f53fca5c6e8cb59daf73ca57d5e0.xml)
+
+[Beacon Tower Lab](https://wechat2rss.xlab.app/feed/63453a813df919bb2cf5419e6aed91bf0fea5fa7.xml)
