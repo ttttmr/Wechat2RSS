@@ -552,3 +552,5 @@ weight: 2
 [Beacon Tower Lab](https://wechat2rss.xlab.app/feed/63453a813df919bb2cf5419e6aed91bf0fea5fa7.xml)
 
 [RainSec](https://wechat2rss.xlab.app/feed/086e8d1d0035fb4418b3c2608f7166353e0628dc.xml)
+
+[辉哥奇谭](https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml)
