@@ -554,3 +554,5 @@ weight: 2
 [RainSec](https://wechat2rss.xlab.app/feed/086e8d1d0035fb4418b3c2608f7166353e0628dc.xml)
 
 [辉哥奇谭](https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml)
+
+[楼兰学习网络安全](https://wechat2rss.xlab.app/feed/6f8d8640d6c8d59ba52ea8a8b5df8529a59e872a.xml)
