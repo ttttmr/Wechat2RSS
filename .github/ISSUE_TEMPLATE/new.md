@@ -9,7 +9,7 @@ assignees: ''
 
 **在提交之前，请确认** #7
 
-- [ ] 在[RSSHub](https://docs.rsshub.app/)上搜索，确认没有相关内容
+- [ ] 在[RSSHub](https://docs.rsshub.app/)中搜索，确认没有相关内容
 - [ ] 在[Feeddd](https://feeddd.org/feeds)中搜索，确认没有相关内容
 - [ ] 在Google搜索作者/公众号相关内容，确认没有相关网站，或者作者在其他平台上发布内容
 
