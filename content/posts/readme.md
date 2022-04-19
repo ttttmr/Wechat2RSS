@@ -21,6 +21,8 @@ https://wechat2rss.xlab.app/posts/list
 
 [部分安全相关公众号opml文件](https://www.inoreader.com/reader/api/0/bundle/opml/0014cd641489)
 
+[全部安全相关公众号opml文件](https://wechat2rss.xlab.app/opml/sec.opml)
+
 [先知社区](https://xianzhi2rss.xlab.app/feed.xml)
 
 ## Thanks
