@@ -3,6 +3,10 @@ title: 公众号列表
 weight: 2
 ---
 
+## opml集合
+
+[安全相关公众号opml文件](https://wechat2rss.xlab.app/opml/sec.opml)
+
 ## 安全
 
 [思想花火](https://wechat2rss.xlab.app/feed/5b925323244e9737c39285596c53e3a2f4a30774.xml)
