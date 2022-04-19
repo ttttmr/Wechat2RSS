@@ -1,6 +1,8 @@
 ---
 title: 公众号列表
 weight: 2
+ShowToc: true
+TocOpen: true
 ---
 
 ## opml集合
