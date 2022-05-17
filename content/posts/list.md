@@ -572,3 +572,5 @@ TocOpen: true
 [从零开始定投日记](https://wechat2rss.xlab.app/feed/0d2c5982deb01d2295ecf8f4891c9cb75d8d8ba3.xml)
 
 [辉哥奇谭](https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml)
+
+[凭栏欲言](https://wechat2rss.xlab.app/feed/01c05fce74822ac6f30656f22e0ca542dfb7c8c0.xml)
