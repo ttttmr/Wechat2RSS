@@ -519,6 +519,10 @@ TocOpen: true
 
 [RASP安全技术](https://wechat2rss.xlab.app/feed/697d59809497086c9137cc5b21feed775c3455a5.xml)
 
+[俗世吧](https://wechat2rss.xlab.app/feed/892464522627f503ae525d1df3c2690bca98b424.xml)
+
+[天书奇坛TFT](https://wechat2rss.xlab.app/feed/53682fed50f2e9f3be9c8f58329e6022ef2fd201.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
