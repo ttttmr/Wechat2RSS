@@ -580,3 +580,5 @@ TocOpen: true
 [辉哥奇谭](https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml)
 
 [凭栏欲言](https://wechat2rss.xlab.app/feed/01c05fce74822ac6f30656f22e0ca542dfb7c8c0.xml)
+
+[路由器评测](https://wechat2rss.xlab.app/feed/2fa034e4b97f23d870d5b8e749e805d508761a41.xml)
