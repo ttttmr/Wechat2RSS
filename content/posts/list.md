@@ -531,6 +531,24 @@ TocOpen: true
 
 [夏虫知冰](https://wechat2rss.xlab.app/feed/6f5a7b292b4b0232ccf1c8e2b7819b98dcdb173a.xml)
 
+[安全小黄鸭](https://wechat2rss.xlab.app/feed/15824aba690f6db2a4922191b262ed22a3b8bec1.xml)
+
+[甲方安全建设](https://wechat2rss.xlab.app/feed/130f6c9e835ca7f7c9f329a93140129499970662.xml)
+
+[朴实无华lake2](https://wechat2rss.xlab.app/feed/d452e14a90682f0ce670dcce1a041f56593260fc.xml)
+
+[钱塘门外的互联网散修](https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml)
+
+[表图](https://wechat2rss.xlab.app/feed/657873c2f534ea1c50875c8657bc405270ce7cd0.xml)
+
+[数工复利](https://wechat2rss.xlab.app/feed/9daa406071d03da194ea8a0b35f1982c288ba366.xml)
+
+[鸟哥谈安全](https://wechat2rss.xlab.app/feed/564971d18e4771aa4494c8b930dc912b04e6743d.xml)
+
+[全闲话](https://wechat2rss.xlab.app/feed/a36d83e725f688bd999b039c259940f72d3514b3.xml)
+
+[吴鲁加](https://wechat2rss.xlab.app/feed/9ce69c7f41d24a340778d34bfc977dd71b40c203.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
