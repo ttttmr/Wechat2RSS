@@ -275,6 +275,7 @@
             <outline text="全闲话" title="全闲话" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/a36d83e725f688bd999b039c259940f72d3514b3.xml" htmlUrl="https://wechat2rss.xlab.app/feed/a36d83e725f688bd999b039c259940f72d3514b3.xml" />
             <outline text="吴鲁加" title="吴鲁加" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/9ce69c7f41d24a340778d34bfc977dd71b40c203.xml" htmlUrl="https://wechat2rss.xlab.app/feed/9ce69c7f41d24a340778d34bfc977dd71b40c203.xml" />
             <outline text="安全防御" title="安全防御" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/aa17887af0644ece8360baf00c4c3d0642a745df.xml" htmlUrl="https://wechat2rss.xlab.app/feed/aa17887af0644ece8360baf00c4c3d0642a745df.xml" />
+            <outline text="李姐姐的扫描器" title="李姐姐的扫描器" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/fda4c8b72435cffdc50c9c6e5eb0041a82eac679.xml" htmlUrl="https://wechat2rss.xlab.app/feed/fda4c8b72435cffdc50c9c6e5eb0041a82eac679.xml" />
         </outline>
     </body>
 </opml>
