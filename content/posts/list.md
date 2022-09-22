@@ -553,6 +553,8 @@ TocOpen: true
 
 [李姐姐的扫描器](https://wechat2rss.xlab.app/feed/fda4c8b72435cffdc50c9c6e5eb0041a82eac679.xml)
 
+[网络安全回收站](https://wechat2rss.xlab.app/feed/3dcfe38cb98fb0a439112b1e1549a84bede6077a.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
