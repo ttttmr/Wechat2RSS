@@ -555,6 +555,10 @@ TocOpen: true
 
 [网络安全回收站](https://wechat2rss.xlab.app/feed/3dcfe38cb98fb0a439112b1e1549a84bede6077a.xml)
 
+[360数字安全](https://wechat2rss.xlab.app/feed/85e7bf4fe192ded1a15f130aa43ac306d227f61b.xml)
+
+[迪哥讲事](https://wechat2rss.xlab.app/feed/6fbc842cdb8fd52f341af76f6aaf6cba21a23f7c.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
