@@ -559,6 +559,8 @@ TocOpen: true
 
 [迪哥讲事](https://wechat2rss.xlab.app/feed/6fbc842cdb8fd52f341af76f6aaf6cba21a23f7c.xml)
 
+[航行笔记](https://wechat2rss.xlab.app/feed/4a76fbd471f0952829df9c488986bbcc67ff8790.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
