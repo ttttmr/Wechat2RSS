@@ -561,6 +561,10 @@ TocOpen: true
 
 [航行笔记](https://wechat2rss.xlab.app/feed/4a76fbd471f0952829df9c488986bbcc67ff8790.xml)
 
+[碳基体](https://wechat2rss.xlab.app/feed/4bc6a2ecb1feb2bd2961a898905147c9f76a4c3a.xml)
+
+[Numen Cyber Labs](https://wechat2rss.xlab.app/feed/48a421edf0498c3b7bf1321174ccc70c266bcd97.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
