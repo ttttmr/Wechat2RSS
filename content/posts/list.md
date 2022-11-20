@@ -27,8 +27,6 @@ TocOpen: true
 
 [EnjoyHacking](https://wechat2rss.xlab.app/feed/257bba53d8f6b6485ac41c0f8cd6fdb0f52840b5.xml)
 
-[互联网安全与创业](https://wechat2rss.xlab.app/feed/4ef3bd392bcda3fe411f1a341669e9b0ef946dab.xml)
-
 [安全小飞侠](https://wechat2rss.xlab.app/feed/869b4e387a017fdd76a56b965ee0ab22c2a52dc2.xml)
 
 [酒仙桥六号部队](https://wechat2rss.xlab.app/feed/164eeaeb12a8d95384d8807f41d3572569296029.xml)
