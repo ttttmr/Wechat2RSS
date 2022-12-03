@@ -567,6 +567,8 @@ TocOpen: true
 
 [NISL实验室](https://wechat2rss.xlab.app/feed/9c5931fa813fd1a38149e52d5809ce9b19a48ec4.xml)
 
+[FuzzWiki](https://wechat2rss.xlab.app/feed/1ec2c6e96e3acea1281658383ee23f212a4f22a4.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
