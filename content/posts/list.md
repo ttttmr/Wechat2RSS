@@ -609,7 +609,9 @@ TocOpen: true
 
 [小火箭](https://wechat2rss.xlab.app/feed/ebbf3f8891e7d70626c75dca7b92dd6c075663d5.xml)
 
-[卢瑟经济学之安生杂谈](https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml)
+~~[卢瑟经济学之安生杂谈](https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml)~~
+
+[卢瑟经济学安生杂谈](https://wechat2rss.xlab.app/feed/62ec8c2ba29a16a45c8418a6ecd1945cc80eb380.xml)
 
 [邱贞玮](https://wechat2rss.xlab.app/feed/6451f06f5dffd44946bbdc407cf9605396f83437.xml)
 
@@ -628,3 +630,9 @@ TocOpen: true
 [凭栏欲言](https://wechat2rss.xlab.app/feed/01c05fce74822ac6f30656f22e0ca542dfb7c8c0.xml)
 
 [路由器评测](https://wechat2rss.xlab.app/feed/2fa034e4b97f23d870d5b8e749e805d508761a41.xml)
+
+[莫言读书会](https://wechat2rss.xlab.app/feed/6324f2c5d7c2413541a11589b64d7fcb63417ff7.xml)
+
+[莫言](https://wechat2rss.xlab.app/feed/c7f569a306308328f4d9c3ef5143087f13374311.xml)
+
+[阿司匹林42195米](https://wechat2rss.xlab.app/feed/644f104d713e906e00ad1c5a0f91db5374cb5fb1.xml)
