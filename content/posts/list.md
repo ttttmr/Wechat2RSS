@@ -636,3 +636,7 @@ TocOpen: true
 [莫言](https://wechat2rss.xlab.app/feed/c7f569a306308328f4d9c3ef5143087f13374311.xml)
 
 [阿司匹林42195米](https://wechat2rss.xlab.app/feed/644f104d713e906e00ad1c5a0f91db5374cb5fb1.xml)
+
+[胡大一大夫](https://wechat2rss.xlab.app/feed/711dd0c42a7a940c7438223ed2ee42131f6d555a.xml)
+
+[空天防务观察](https://wechat2rss.xlab.app/feed/b3da5de3b7697f10c0e22ce8909063ea84c44bbd.xml)
