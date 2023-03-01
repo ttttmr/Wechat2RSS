@@ -284,6 +284,7 @@
             <outline text="放之" title="放之" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/672af7872ddae7ee20df9a3f2560224fb16babc3.xml" htmlUrl="https://wechat2rss.xlab.app/feed/672af7872ddae7ee20df9a3f2560224fb16babc3.xml" />
             <outline text="NISL实验室" title="NISL实验室" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/9c5931fa813fd1a38149e52d5809ce9b19a48ec4.xml" htmlUrl="https://wechat2rss.xlab.app/feed/9c5931fa813fd1a38149e52d5809ce9b19a48ec4.xml" />
             <outline text="FuzzWiki" title="FuzzWiki" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/1ec2c6e96e3acea1281658383ee23f212a4f22a4.xml" htmlUrl="https://wechat2rss.xlab.app/feed/1ec2c6e96e3acea1281658383ee23f212a4f22a4.xml" />
+            <outline text="DarkNavy" title="DarkNavy" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/0d4ffa4a2127cb603c2da49daa678b0e780fd66b.xml" htmlUrl="https://wechat2rss.xlab.app/feed/0d4ffa4a2127cb603c2da49daa678b0e780fd66b.xml" />
         </outline>
     </body>
 </opml>
