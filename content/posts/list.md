@@ -571,6 +571,8 @@ TocOpen: true
 
 [DarkNavy](https://wechat2rss.xlab.app/feed/0d4ffa4a2127cb603c2da49daa678b0e780fd66b.xml)
 
+[在酒吧喝牛奶的牛仔](https://wechat2rss.xlab.app/feed/79406746c885004942b4fb232aff112a23579018.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
