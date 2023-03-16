@@ -573,6 +573,10 @@ TocOpen: true
 
 [在酒吧喝牛奶的牛仔](https://wechat2rss.xlab.app/feed/79406746c885004942b4fb232aff112a23579018.xml)
 
+[Desync InfoSec](https://wechat2rss.xlab.app/feed/9e1ec91d1a8cb22871f812bbe62fb7fe6c7b3e28.xml)
+
+[Security丨Art](https://wechat2rss.xlab.app/feed/bd7040862c701118e492f070f4abb58c52b8fb02.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
