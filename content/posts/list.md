@@ -579,6 +579,10 @@ TocOpen: true
 
 [拨开云雾](https://wechat2rss.xlab.app/feed/b522811243a36e50628af702a4235b29ff0bdd5e.xml)
 
+[huasec](https://wechat2rss.xlab.app/feed/f193cadd8ff8418e027af5e22609abbe04a66687.xml)
+
+[4ra1n](https://wechat2rss.xlab.app/feed/30d26f1caaba15501cc713e10995ccb55e6c3fad.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
@@ -594,6 +598,8 @@ TocOpen: true
 [寒雁Talk](https://wechat2rss.xlab.app/feed/bbbe847b63f498801792fb7a08d67d0fbf167a04.xml)
 
 [哔哩哔哩技术](https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml)
+
+[机器之心](https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml)
 
 ## 其他
 
