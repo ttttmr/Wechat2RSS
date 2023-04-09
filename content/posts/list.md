@@ -583,6 +583,8 @@ TocOpen: true
 
 [4ra1n](https://wechat2rss.xlab.app/feed/30d26f1caaba15501cc713e10995ccb55e6c3fad.xml)
 
+[深潜之眼](https://wechat2rss.xlab.app/feed/2bd44e5502a5ab5b55eb8a732449d8342a6defe9.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
