@@ -587,6 +587,9 @@ TocOpen: true
 
 [不忘初心px1624](https://wechat2rss.xlab.app/feed/ccbd9e00f08cbd4c34f7f08060cfb5d4179843a5.xml)
 
+[信安杂记](https://wechat2rss.xlab.app/feed/68a725789c8e9fc3e3f05813880df328f1880fcb.xml)
+
+[小陈的Life](https://wechat2rss.xlab.app/feed/7bc0fb4b036b6997552981cdd445bc48abff59bb.xml)
 
 ## 开发
 
