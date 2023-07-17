@@ -595,6 +595,8 @@ TocOpen: true
 
 [RedTeam](https://wechat2rss.xlab.app/feed/5ca1e75ce245541f45d8c3aa00b81ea11e3177c2.xml)
 
+[希潭实验室](https://wechat2rss.xlab.app/feed/f7dd0925a96c6f025dab0dbe8f80e1eb17d12538.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
@@ -641,6 +643,8 @@ TocOpen: true
 
 ~~[卢瑟经济学安生杂谈](https://wechat2rss.xlab.app/feed/62ec8c2ba29a16a45c8418a6ecd1945cc80eb380.xml)~~
 
+[红色安生](https://wechat2rss.xlab.app/feed/e2379df83a2450a7dd45022f0408c65cdf11563f.xml)
+
 [邱贞玮](https://wechat2rss.xlab.app/feed/6451f06f5dffd44946bbdc407cf9605396f83437.xml)
 
 [方方的航空小筑](https://wechat2rss.xlab.app/feed/b146ee0c6a719d7d3d86c93f4fdd4ca27b91baa2.xml)
@@ -668,3 +672,9 @@ TocOpen: true
 [胡大一大夫](https://wechat2rss.xlab.app/feed/711dd0c42a7a940c7438223ed2ee42131f6d555a.xml)
 
 [空天防务观察](https://wechat2rss.xlab.app/feed/b3da5de3b7697f10c0e22ce8909063ea84c44bbd.xml)
+
+[温哥华的鱼](https://wechat2rss.xlab.app/feed/51ed4848e5bfbf298b0d2b2becdc3a7d067ff5be.xml)
+
+[阿虚同学](https://wechat2rss.xlab.app/feed/808d3625c2b1915142f09e2d4bb2acd636aa956d.xml)
+
+[上海器审](https://wechat2rss.xlab.app/feed/7a292852e873eabf64cc2b76e0d883bae4306517.xml)
