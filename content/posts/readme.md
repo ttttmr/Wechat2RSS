@@ -13,9 +13,9 @@ https://wechat2rss.xlab.app
 
 ## 可用情况
 
-目前主要公开了一些我订阅的安全/开发相关的公众号
+目前共380个，公开331个公众号
 
-https://wechat2rss.xlab.app/posts/list
+完整公开收录列表见 https://wechat2rss.xlab.app/posts/list
 
 推荐[watch本仓库](https://github.com/ttttmr/wechat2rss)订阅最新的公众号RSS
 
