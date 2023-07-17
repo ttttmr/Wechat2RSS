@@ -1,0 +1,28 @@
+name: 推荐公众号
+description: 推荐公众号
+title: "[推荐公众号]: xxx"
+labels: ["新公众号"]
+body:
+  - type: input
+    attributes:
+      label: 公众号名称
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: 领域
+      description: 简单分类一下，比如科技/金融/历史/编程等
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: 介绍
+      description: 告诉大家这个公众号主要是讲什么的
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 文章地址
+      description: 分享几篇公众号你认为写的好的文章
+    validations:
+      required: true
