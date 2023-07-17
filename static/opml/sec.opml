@@ -297,6 +297,7 @@
             <outline text="小陈的Life" title="小陈的Life" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/7bc0fb4b036b6997552981cdd445bc48abff59bb.xml" htmlUrl="https://wechat2rss.xlab.app/feed/7bc0fb4b036b6997552981cdd445bc48abff59bb.xml" />
             <outline text="悬镜安全" title="悬镜安全" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/59c134d2e41c3a0724d89cc6fa359bc1abedbc26.xml" htmlUrl="https://wechat2rss.xlab.app/feed/59c134d2e41c3a0724d89cc6fa359bc1abedbc26.xml" />
             <outline text="RedTeam" title="RedTeam" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/5ca1e75ce245541f45d8c3aa00b81ea11e3177c2.xml" htmlUrl="https://wechat2rss.xlab.app/feed/5ca1e75ce245541f45d8c3aa00b81ea11e3177c2.xml" />
+            <outline text="希潭实验室" title="希潭实验室" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/f7dd0925a96c6f025dab0dbe8f80e1eb17d12538.xml" htmlUrl="https://wechat2rss.xlab.app/feed/f7dd0925a96c6f025dab0dbe8f80e1eb17d12538.xml" />
         </outline>
     </body>
 </opml>
