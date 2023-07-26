@@ -597,6 +597,8 @@ TocOpen: true
 
 [希潭实验室](https://wechat2rss.xlab.app/feed/f7dd0925a96c6f025dab0dbe8f80e1eb17d12538.xml)
 
+[OnionSec](https://wechat2rss.xlab.app/feed/71d830505c0eb2d4e2627dbf1dfc2b2971bc240b.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)

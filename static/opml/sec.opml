@@ -298,6 +298,7 @@
             <outline text="悬镜安全" title="悬镜安全" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/59c134d2e41c3a0724d89cc6fa359bc1abedbc26.xml" htmlUrl="https://wechat2rss.xlab.app/feed/59c134d2e41c3a0724d89cc6fa359bc1abedbc26.xml" />
             <outline text="RedTeam" title="RedTeam" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/5ca1e75ce245541f45d8c3aa00b81ea11e3177c2.xml" htmlUrl="https://wechat2rss.xlab.app/feed/5ca1e75ce245541f45d8c3aa00b81ea11e3177c2.xml" />
             <outline text="希潭实验室" title="希潭实验室" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/f7dd0925a96c6f025dab0dbe8f80e1eb17d12538.xml" htmlUrl="https://wechat2rss.xlab.app/feed/f7dd0925a96c6f025dab0dbe8f80e1eb17d12538.xml" />
+            <outline text="OnionSec" title="OnionSec" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/71d830505c0eb2d4e2627dbf1dfc2b2971bc240b.xml" htmlUrl="https://wechat2rss.xlab.app/feed/71d830505c0eb2d4e2627dbf1dfc2b2971bc240b.xml" />
         </outline>
     </body>
 </opml>
