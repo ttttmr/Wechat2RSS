@@ -23,6 +23,8 @@ https://wechat2rss.xlab.app
 
 希望能了解到更多优质公众号，欢迎[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)到本仓库
 
+点赞数量超过Star数量/100时将会被收录
+
 ## 快捷订阅
 
 [部分安全相关公众号Inoreader订阅](https://www.inoreader.com/bundle/0014cd641489)
