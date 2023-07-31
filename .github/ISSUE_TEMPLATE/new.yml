@@ -26,9 +26,3 @@ body:
       description: 分享几篇公众号你认为写的好的文章
     validations:
       required: true
-  - type: input
-    attributes:
-      label: 目前项目Star数量
-      description: 点赞数量超过Star数量/100时将会被收录
-    validations:
-      required: true
