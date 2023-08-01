@@ -682,3 +682,7 @@ TocOpen: true
 [阿虚同学](https://wechat2rss.xlab.app/feed/808d3625c2b1915142f09e2d4bb2acd636aa956d.xml)
 
 [上海器审](https://wechat2rss.xlab.app/feed/7a292852e873eabf64cc2b76e0d883bae4306517.xml)
+
+[机器学习初学者](https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml)
+
+[我爱计算机视觉](https://wechat2rss.xlab.app/feed/b81ffcfff1107b5265cd7e39de610dc7ca72caf4.xml)
