@@ -599,6 +599,8 @@ TocOpen: true
 
 [OnionSec](https://wechat2rss.xlab.app/feed/71d830505c0eb2d4e2627dbf1dfc2b2971bc240b.xml)
 
+[金色钱江](https://wechat2rss.xlab.app/feed/e1e2ffe5159e49f081844f257d08c1218908fff3.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
