@@ -23,6 +23,6 @@ body:
   - type: textarea
     attributes:
       label: 文章地址
-      description: 分享几篇公众号你认为写的好的文章
+      description: 分享几篇你认为写的好的文章
     validations:
       required: true
