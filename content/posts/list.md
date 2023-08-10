@@ -696,3 +696,9 @@ TocOpen: true
 [机器学习初学者](https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml)
 
 [我爱计算机视觉](https://wechat2rss.xlab.app/feed/b81ffcfff1107b5265cd7e39de610dc7ca72caf4.xml)
+
+[宋钊的小站](https://wechat2rss.xlab.app/feed/667c03c3823e7c2c9da0c197b7b40f5b3ee94f8e.xml)
+
+[biao](https://wechat2rss.xlab.app/feed/2667205b80c29a5126757eaa2b63840925f6cb64.xml)
+
+[At The End](https://wechat2rss.xlab.app/feed/fd8a25f541459ec9208837179c9a6688bc29c2e3.xml)
