@@ -607,6 +607,10 @@ TocOpen: true
 
 [安全419](https://wechat2rss.xlab.app/feed/6f33507162907318fd059fb11977ca352ff55d8e.xml)
 
+[安全村SecUN](https://wechat2rss.xlab.app/feed/13267b55f2dbff6e536b4d593408fe0ef977cb43.xml)
+
+[Medi0cr1ty](https://wechat2rss.xlab.app/feed/929d7672d9f2a7727dc161b4389a433d3a0d6eb0.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
