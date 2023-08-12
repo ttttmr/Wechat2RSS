@@ -611,6 +611,10 @@ TocOpen: true
 
 [Medi0cr1ty](https://wechat2rss.xlab.app/feed/929d7672d9f2a7727dc161b4389a433d3a0d6eb0.xml)
 
+[Skynet 安全团队](https://wechat2rss.xlab.app/feed/2da5fd062b3f261a1aa188e85a082af5ce2f7c97.xml)
+
+[中孚安全技术研究](https://wechat2rss.xlab.app/feed/53c125e4f455e348be9bbe5b4e6fc22088621dc2.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
