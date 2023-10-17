@@ -615,6 +615,20 @@ TocOpen: true
 
 [中孚安全技术研究](https://wechat2rss.xlab.app/feed/53c125e4f455e348be9bbe5b4e6fc22088621dc2.xml)
 
+[ADLab](https://wechat2rss.xlab.app/feed/16f16b9f4eb45442a824a52e3ddb040941a49f68.xml)
+
+[安天AVL威胁情报中心](https://wechat2rss.xlab.app/feed/c17498223ad8f92e5434100b16f4894a3107a90b.xml)
+
+[白泽安全实验室](https://wechat2rss.xlab.app/feed/6bdf0d750e8c418f6ddfe8826c7a29f786a74aa4.xml)
+
+[360威胁情报中心](https://wechat2rss.xlab.app/feed/920f171e3dae0c8eeb4c97b366b229ba19807732.xml)
+
+[洞源实验室](https://wechat2rss.xlab.app/feed/ed8dcc9aa1014eb34c7fd7dc0ef6b96272ed99e0.xml)
+
+[41group](https://wechat2rss.xlab.app/feed/d840d8b21d5635eb5b332a61f472de54579c8a30.xml)
+
+[大兵说安全](https://wechat2rss.xlab.app/feed/e5d7d4cd30d4467c6e50410a89bd5262c21eae22.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
@@ -632,6 +646,8 @@ TocOpen: true
 [哔哩哔哩技术](https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml)
 
 [机器之心](https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml)
+
+[Android 开发者](https://wechat2rss.xlab.app/feed/c2e44fa977abf95e4aabdd7059bbb8d1075a4720.xml)
 
 ## 其他
 
@@ -706,3 +722,11 @@ TocOpen: true
 [biao](https://wechat2rss.xlab.app/feed/2667205b80c29a5126757eaa2b63840925f6cb64.xml)
 
 [At The End](https://wechat2rss.xlab.app/feed/fd8a25f541459ec9208837179c9a6688bc29c2e3.xml)
+
+[广州图书馆](https://wechat2rss.xlab.app/feed/b71eecec99bc3b09f1fcf1ff623e5f21f71aa0cf.xml)
+
+[古明地觉的编程教室](https://wechat2rss.xlab.app/feed/9e21dbf7a7cca45762bbed43f86cf04f82b23e1a.xml)
+
+[内德羽则说](https://wechat2rss.xlab.app/feed/25ab3bb01cf06dd921fa4887b4cb06c30dc11080.xml)
+
+[经济学人双语精读](https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml)
