@@ -247,8 +247,6 @@ TocOpen: true
 
 [IMKP](https://wechat2rss.xlab.app/feed/09fd2a3e5180ee5ee0f787446046e8bc91f47d65.xml)
 
-[面具与甲虫](https://wechat2rss.xlab.app/feed/bf0b754a49db01ae48ef1ab4f912af76eaa9c306.xml)
-
 [网安网事](https://wechat2rss.xlab.app/feed/6e619b6a41994735a9462c567eb402bc1e7ed00b.xml)
 
 [掮客酒馆](https://wechat2rss.xlab.app/feed/10fdc27bdac746197d79a7632053fee231f37bcd.xml)
