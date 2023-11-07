@@ -627,6 +627,12 @@ TocOpen: true
 
 [大兵说安全](https://wechat2rss.xlab.app/feed/e5d7d4cd30d4467c6e50410a89bd5262c21eae22.xml)
 
+[0x727开源安全团队](https://wechat2rss.xlab.app/feed/fb95636ab2edd220c83bc38b7041bb8e0a723496.xml)
+
+[安全产品人的赛博空间](https://wechat2rss.xlab.app/feed/923ebe72c2b551e158bcce2f9e6262dd563b3b75.xml)
+
+[赛博昆仑CERT](https://wechat2rss.xlab.app/feed/fb14ec6353e6ebbeb470d35d633471d0bca583a0.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
@@ -647,6 +653,8 @@ TocOpen: true
 
 [Android 开发者](https://wechat2rss.xlab.app/feed/c2e44fa977abf95e4aabdd7059bbb8d1075a4720.xml)
 
+[阿里云开发者](https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml)
+
 ## 其他
 
 [老高的互联网杂谈](https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml)
@@ -658,6 +666,10 @@ TocOpen: true
 [小众软件](https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml)
 
 [落日间](https://wechat2rss.xlab.app/feed/9c4b3d62a24fdf1863421984ad23e0c63e317614.xml)
+
+[猫笔刀](https://wechat2rss.xlab.app/feed/33d986064f59be5263de2ca822fb3e0bdd59eb81.xml)
+
+[42章经](https://wechat2rss.xlab.app/feed/31436fcc3bba8c2c2a9337a163afcb3b5a57a0a0.xml)
 
 ## 用户提交
 
@@ -728,3 +740,5 @@ TocOpen: true
 [内德羽则说](https://wechat2rss.xlab.app/feed/25ab3bb01cf06dd921fa4887b4cb06c30dc11080.xml)
 
 [经济学人双语精读](https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml)
+
+[傅盛](https://wechat2rss.xlab.app/feed/71257003d43d39b91ff9d38b6f3330c883dc8e0c.xml)
