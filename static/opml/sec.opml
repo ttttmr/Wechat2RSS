@@ -312,8 +312,10 @@
             <outline text="360威胁情报中心" title="360威胁情报中心" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/920f171e3dae0c8eeb4c97b366b229ba19807732.xml" htmlUrl="https://wechat2rss.xlab.app/feed/920f171e3dae0c8eeb4c97b366b229ba19807732.xml" />
             <outline text="洞源实验室" title="洞源实验室" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/ed8dcc9aa1014eb34c7fd7dc0ef6b96272ed99e0.xml" htmlUrl="https://wechat2rss.xlab.app/feed/ed8dcc9aa1014eb34c7fd7dc0ef6b96272ed99e0.xml" />
             <outline text="41group" title="41group" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/d840d8b21d5635eb5b332a61f472de54579c8a30.xml" htmlUrl="https://wechat2rss.xlab.app/feed/d840d8b21d5635eb5b332a61f472de54579c8a30.xml" />
-            <outline text="经济学人双语精读" title="经济学人双语精读" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml" htmlUrl="https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml" />
             <outline text="大兵说安全" title="大兵说安全" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/e5d7d4cd30d4467c6e50410a89bd5262c21eae22.xml" htmlUrl="https://wechat2rss.xlab.app/feed/e5d7d4cd30d4467c6e50410a89bd5262c21eae22.xml" />
+            <outline text="0x727开源安全团队" title="0x727开源安全团队" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/fb95636ab2edd220c83bc38b7041bb8e0a723496.xml" htmlUrl="https://wechat2rss.xlab.app/feed/fb95636ab2edd220c83bc38b7041bb8e0a723496.xml" />
+            <outline text="安全产品人的赛博空间" title="安全产品人的赛博空间" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/923ebe72c2b551e158bcce2f9e6262dd563b3b75.xml" htmlUrl="https://wechat2rss.xlab.app/feed/923ebe72c2b551e158bcce2f9e6262dd563b3b75.xml" />
+            <outline text="赛博昆仑CERT" title="赛博昆仑CERT" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/fb14ec6353e6ebbeb470d35d633471d0bca583a0.xml" htmlUrl="https://wechat2rss.xlab.app/feed/fb14ec6353e6ebbeb470d35d633471d0bca583a0.xml" />
         </outline>
     </body>
 </opml>
