@@ -744,3 +744,5 @@ TocOpen: true
 [经济学人双语精读](https://wechat2rss.xlab.app/feed/3db1babbdeeb84327cf6b5315e98d5f40925ae13.xml)
 
 [傅盛](https://wechat2rss.xlab.app/feed/71257003d43d39b91ff9d38b6f3330c883dc8e0c.xml)
+
+[PaperWeekly](https://wechat2rss.xlab.app/feed/3be891c2f4e526629ab055a297cc2cd6c1f0a563.xml)
