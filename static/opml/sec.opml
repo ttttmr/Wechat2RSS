@@ -317,6 +317,8 @@
             <outline text="安全产品人的赛博空间" title="安全产品人的赛博空间" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/923ebe72c2b551e158bcce2f9e6262dd563b3b75.xml" htmlUrl="https://wechat2rss.xlab.app/feed/923ebe72c2b551e158bcce2f9e6262dd563b3b75.xml" />
             <outline text="赛博昆仑CERT" title="赛博昆仑CERT" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/fb14ec6353e6ebbeb470d35d633471d0bca583a0.xml" htmlUrl="https://wechat2rss.xlab.app/feed/fb14ec6353e6ebbeb470d35d633471d0bca583a0.xml" />
             <outline text="干杯Security" title="干杯Security" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/a8422817da57b5ad2c39c8f264d2eeef683bb338.xml" htmlUrl="https://wechat2rss.xlab.app/feed/a8422817da57b5ad2c39c8f264d2eeef683bb338.xml" />
+            <outline text="奇安信XLab" title="奇安信XLab" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/5c7b6eec254fbb0afac7abf4eae95573fc374555.xml" htmlUrl="https://wechat2rss.xlab.app/feed/5c7b6eec254fbb0afac7abf4eae95573fc374555.xml" />
+            <outline text="CNNVD安全动态" title="CNNVD安全动态" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/899e0eaf0e3ea7abac0211b3db9bb39c616e3255.xml" htmlUrl="https://wechat2rss.xlab.app/feed/899e0eaf0e3ea7abac0211b3db9bb39c616e3255.xml" />
         </outline>
     </body>
 </opml>

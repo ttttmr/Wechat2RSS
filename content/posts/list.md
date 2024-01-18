@@ -635,6 +635,10 @@ TocOpen: true
 
 [干杯Security](https://wechat2rss.xlab.app/feed/a8422817da57b5ad2c39c8f264d2eeef683bb338.xml)
 
+[奇安信XLab](https://wechat2rss.xlab.app/feed/5c7b6eec254fbb0afac7abf4eae95573fc374555.xml)
+
+[CNNVD安全动态](https://wechat2rss.xlab.app/feed/899e0eaf0e3ea7abac0211b3db9bb39c616e3255.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
