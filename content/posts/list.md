@@ -661,6 +661,10 @@ TocOpen: true
 
 [阿里云开发者](https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml)
 
+[阿里巴巴中间件](https://wechat2rss.xlab.app/feed/ede34e7a9aff5e93ad159ebfd27075710a963f54.xml)
+
+[阿里技术](https://wechat2rss.xlab.app/feed/6e1f9b775f7a5841ac1a94310f0478b45a02ec01.xml)
+
 ## 其他
 
 [老高的互联网杂谈](https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml)
