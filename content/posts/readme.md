@@ -43,7 +43,7 @@ https://wechat2rss.xlab.app
 
 [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 提供部分安全公众号信息
 
-[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) 参考部分代码思路
+[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub/issues/311#issuecomment-450468724) 参考部分代码思路
 
 ## 支持
 
