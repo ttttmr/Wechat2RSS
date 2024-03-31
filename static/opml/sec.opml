@@ -320,6 +320,9 @@
             <outline text="奇安信XLab" title="奇安信XLab" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/5c7b6eec254fbb0afac7abf4eae95573fc374555.xml" htmlUrl="https://wechat2rss.xlab.app/feed/5c7b6eec254fbb0afac7abf4eae95573fc374555.xml" />
             <outline text="CNNVD安全动态" title="CNNVD安全动态" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/899e0eaf0e3ea7abac0211b3db9bb39c616e3255.xml" htmlUrl="https://wechat2rss.xlab.app/feed/899e0eaf0e3ea7abac0211b3db9bb39c616e3255.xml" />
             <outline text="NOP Team" title="NOP Team" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/3f56e6d80d7e3e5f73983bfa6c06045ff62f1530.xml" htmlUrl="https://wechat2rss.xlab.app/feed/3f56e6d80d7e3e5f73983bfa6c06045ff62f1530.xml" />
+            <outline text="CodeAnalyzer Ultra" title="CodeAnalyzer Ultra" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/55250c252549088f7bcfa3527fe540bec5e2e16e.xml" htmlUrl="https://wechat2rss.xlab.app/feed/55250c252549088f7bcfa3527fe540bec5e2e16e.xml" />
+            <outline text="CodeWisdom" title="CodeWisdom" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/4e361ed9f2258098a35e02a6b738d6e53107f8bb.xml" htmlUrl="https://wechat2rss.xlab.app/feed/4e361ed9f2258098a35e02a6b738d6e53107f8bb.xml" />
+            <outline text="逆熵重生" title="逆熵重生" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/95efa9e55cc1f8b14fb09b246bfacb6b9cd0c1e8.xml" htmlUrl="https://wechat2rss.xlab.app/feed/95efa9e55cc1f8b14fb09b246bfacb6b9cd0c1e8.xml" />
         </outline>
     </body>
 </opml>
