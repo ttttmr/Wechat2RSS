@@ -768,3 +768,5 @@ TocOpen: true
 [集智俱乐部](https://wechat2rss.xlab.app/feed/8540570d27c0bfe0a219173cf1ace83ae79445cb.xml)
 
 [呦呦鹿鸣](https://wechat2rss.xlab.app/feed/fa89f27259f903b92f5f133140dd3f641110f9fd.xml)
+
+[差评](https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml)
