@@ -641,6 +641,12 @@ TocOpen: true
 
 [NOP Team](https://wechat2rss.xlab.app/feed/3f56e6d80d7e3e5f73983bfa6c06045ff62f1530.xml)
 
+[CodeAnalyzer Ultra](https://wechat2rss.xlab.app/feed/55250c252549088f7bcfa3527fe540bec5e2e16e.xml)
+
+[CodeWisdom](https://wechat2rss.xlab.app/feed/4e361ed9f2258098a35e02a6b738d6e53107f8bb.xml)
+
+[逆熵重生](https://wechat2rss.xlab.app/feed/95efa9e55cc1f8b14fb09b246bfacb6b9cd0c1e8.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
