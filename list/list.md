@@ -1,13 +1,4 @@
----
-title: 公众号列表
-weight: 2
-ShowToc: true
-TocOpen: true
----
-
-## opml集合
-
-[安全相关公众号opml文件](https://wechat2rss.xlab.app/opml/sec.opml)
+# 完整公众号列表
 
 ## 安全
 

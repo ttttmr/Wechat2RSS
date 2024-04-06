@@ -44,4 +44,4 @@ https://wechat2rss.xlab.app
 
 ## 支持
 
-![](static/image/wx.jpg)
+![](public/image/wx.jpg)
