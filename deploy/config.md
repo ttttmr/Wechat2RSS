@@ -2,6 +2,14 @@
 
 服务通过环境变量进行配置
 
+## LISTEN
+
+```shell
+LISTEN="8080"
+```
+
+控制`docker-compose.yml`中服务监听，可不填，默认监听`8080`端口
+
 ## LIC_EMAIL
 
 > [!IMPORTANT] 必填项
@@ -83,6 +91,8 @@ RSS_STATIC=0
 对RSS订阅内容静态化，`0`为不使用，`1`为使用
 
 开启后会将RSS文件保存到`data/web/feed`目录中
+
+同时`/feed/*.xml`由此目录静态文件提供
 
 ## BOT_TG_TOKEN
 

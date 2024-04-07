@@ -34,7 +34,9 @@ export default defineConfig({
             { text: '定价', link: '/deploy/' },
             { text: '使用指南', link: '/deploy/guide' },
             { text: '参数配置', link: '/deploy/config' },
+            { text: 'API参考', link: '/deploy/api' },
             { text: '常见问题', link: '/deploy/qa' },
+            { text: '发布记录', link: '/deploy/changelog' },
           ]
         }
       ]

@@ -8,40 +8,22 @@ https://wechat2rss.xlab.app
 
 尽力确保文章更新周期在24小时内（从作者发布到RSS收录）
 
-## 可用情况
+## 免费服务
 
-目前共380个，公开331个公众号
+目前公开300+公众号
 
-完整公开收录列表见 https://wechat2rss.xlab.app/posts/list
+[详情](https://wechat2rss.xlab.app/list/)
 
-推荐[watch本仓库](https://github.com/ttttmr/wechat2rss)订阅最新的公众号RSS
+[全部公众号列表](https://wechat2rss.xlab.app/list/all/)
 
-## 收录
+推荐[watch本仓库](https://github.com/ttttmr/wechat2rss)，收到新公众号收录通知
 
-希望能了解到更多优质公众号，欢迎[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)到本仓库
+欢迎[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)到本仓库进行收录
 
-点赞数量超过Star数量/100时将会被收录
+## 付费软件
 
-## 快捷订阅
-
-[部分安全相关公众号Inoreader订阅](https://www.inoreader.com/bundle/0014cd641489)
-
-[部分安全相关公众号opml文件](https://www.inoreader.com/reader/api/0/bundle/opml/0014cd641489)
-
-[全部安全相关公众号opml文件](https://wechat2rss.xlab.app/opml/sec.opml)
-
-## 技术
-
-[整体架构](https://blog.xlab.app/p/a207c8e3/)
-
-[更新策略](https://blog.xlab.app/p/d73537b/)
+提供私有部署，[点击购买](https://wechat2rss.xlab.app/deploy/)
 
 ## Thanks
 
-[DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) 提供部分安全公众号信息
-
-[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) 参考部分代码思路
-
-## 支持
-
-![](public/image/wx.jpg)
+[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
