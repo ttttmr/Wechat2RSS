@@ -2,6 +2,8 @@
 
 遇到问题可在[GitHub中提Issue](https://github.com/ttttmr/Wechat2RSS/issues)
 
+用户Telegram群组：[邀请链接](https://t.me/+8COw6-luUoVlZGVh)
+
 ## 频率限制
 
 如果配置了消息通知，收到消息通知为`需要验证`，进行以下操作

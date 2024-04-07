@@ -4,12 +4,19 @@
 
 推荐2G内存以上配置，安装`Docker`和`Docker Compose`
 
-在[这里](https://github.com/ttttmr/Wechat2RSS/releases)下载最新安装包并解压
+```shell
+curl -fsSL "https://get.docker.com" | /bin/sh
+```
+
+> [!IMPORTANT]
+> 推荐使用国内/本地NAS部署，避免遇到微信异地登陆风控问题
+
+在激活邮件中下载安装包并解压，以后会上传到[GitHub Releases](https://github.com/ttttmr/Wechat2RSS/releases)发布
 
 包含以下文件：
 
-```bash
-wechat2rss-server
+```shell
+server
 Dockerfile
 docker-compose.yml
 ```
