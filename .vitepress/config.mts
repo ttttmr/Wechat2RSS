@@ -9,6 +9,10 @@ export default defineConfig({
   },
   lastUpdated: true,
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/ttttmr/Wechat2RSS/edit/master/:path',
+      text: 'Edit this page on GitHub'
+    },
     logo: '/favicon.ico',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
