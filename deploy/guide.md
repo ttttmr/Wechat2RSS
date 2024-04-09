@@ -98,7 +98,7 @@ atob(biz)
 
 配置[RSS_ENC_FEED_ID](./config#rss-enc-feed-id)，对订阅地址进行加密
 
-### 配置消息通知
+### 配置服务异常告警
 
 配置[BOT_TG_TOKEN](./config#bot-tg-token)启用Telegram Bot
 
