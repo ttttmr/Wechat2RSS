@@ -11,7 +11,7 @@ export default defineConfig({
   themeConfig: {
     editLink: {
       pattern: 'https://github.com/ttttmr/Wechat2RSS/edit/master/:path',
-      text: 'Edit this page on GitHub'
+      text: '在 GitHub 上编辑此页面'
     },
     logo: '/favicon.ico',
     // https://vitepress.dev/reference/default-theme-config
