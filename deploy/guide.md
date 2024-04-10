@@ -6,6 +6,10 @@
 
 Docker镜像为`ttttmr/wechat2rss`
 
+> [!TIP]
+> 一键安装Docker和Docker Compose
+> `curl -fsSL "https://get.docker.com" | /bin/sh`
+
 > [!IMPORTANT]
 > 推荐使用国内服务器/本地NAS部署，避免遇到微信异地登陆风控问题
 
