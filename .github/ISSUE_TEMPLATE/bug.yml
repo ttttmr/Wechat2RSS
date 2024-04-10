@@ -1,0 +1,23 @@
+name: Bug
+description: 问题反馈
+title: "[Bug]: "
+labels: ["Bug"]
+body:
+  - type: input
+    attributes:
+      label: 版本
+      description: 访问/version查看
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 问题描述
+      description: 如果是老版本可以先升级再观察问题是否存在
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 日志
+      description: 参考 https://wechat2rss.xlab.app/deploy/qa#%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E6%97%A5%E5%BF%97
+    validations:
+      required: true
