@@ -60,12 +60,12 @@ wget https://wechat2rss.xlab.app/docker-compose.yml
 
 修改配置，填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
 
-> [!TIP]
-> 完整配置和说明见[参数配置](config)
-
 ```shell
 vi docker-compose.yml
 ```
+
+> [!TIP]
+> 完整配置和说明见[参数配置](config)
 
 启动服务
 
