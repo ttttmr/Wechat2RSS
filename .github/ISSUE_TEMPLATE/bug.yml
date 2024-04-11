@@ -1,4 +1,4 @@
-name: Bug
+name: Bug反馈
 description: 问题反馈
 title: "[Bug]: "
 labels: ["Bug"]
@@ -11,8 +11,13 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: 问题描述
+      label: 遇到的问题
       description: 如果是老版本可以先升级再观察问题是否存在
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 期望的结果
     validations:
       required: true
   - type: textarea
