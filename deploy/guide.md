@@ -30,7 +30,8 @@ docker run -d \
 ```
 
 > [!IMPORTANT]
-> 务必将`/wechat2rss`目录进行持久化保存
+> 务必将`/wechat2rss`目录进行持久化保存，并妥善保管持久化之后的目录文件如`./data`
+> 后续升级或迁移服务等操作，请注意依然将此文件夹映射为容器中的`/wechat2rss`目录
 
 `-e`参数可以添加更多环境变量
 
@@ -76,6 +77,16 @@ vi docker-compose.yml
 ```shell
 docker compose up -d
 ```
+查看服务状态
+
+```shell
+docker compose ps -a
+```
+查看服务日志
+
+```shell
+docker compose logs -f
+```
 
 #### 升级
 
@@ -95,6 +106,9 @@ docker compose up -d
 
 访问`/login`，微信扫码登陆
 
+> [!TIP]
+> 完成扫码并成功登录后，若需退出当前账号或重新登录，请先在微信阅读App的设备管理删除本设备
+
 ### 添加订阅
 
 #### 微信公众号ID订阅
@@ -105,7 +119,7 @@ docker compose up -d
 atob(biz)
 ```
 
-访问`/add/公众号ID`获得订阅链接
+访问`/add/公众号ID`获得订阅链接(公众号ID请忽略引号)
 
 ## 服务管理
 

@@ -6,7 +6,7 @@
 
 ## /add/:id?k=xxx
 
-根据公众号ID添加订阅，添加成功后自动跳转到订阅地址
+根据公众号ID添加订阅，添加成功后自动跳转到订阅地址，`:id`为公众号ID
 
 如果该公众号已经订阅，此时会立即触发一次更新，所以不要将这个地址作为订阅地址
 
@@ -16,7 +16,7 @@
 
 RSS订阅地址
 
-默认`id`为公众号ID
+默认`:id`为公众号ID
 
 开启[RSS_ENC_FEED_ID](./config#rss-enc-feed-id)后，`id`为`HMAC`计算后的公众号ID，密码由[RSS_SECRET](./config#rss-secret)提供
 
