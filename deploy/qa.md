@@ -9,7 +9,7 @@
 查看最新100条日志
 
 ```shell
-docker logs wechat2rss-rss -n 100
+docker logs wechat2rss -n 100
 ```
 
 ## 频率限制问题

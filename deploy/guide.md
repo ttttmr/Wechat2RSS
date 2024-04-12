@@ -77,16 +77,6 @@ vi docker-compose.yml
 ```shell
 docker compose up -d
 ```
-查看服务状态
-
-```shell
-docker compose ps -a
-```
-查看服务日志
-
-```shell
-docker compose logs -f
-```
 
 #### 升级
 
