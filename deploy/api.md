@@ -1,8 +1,18 @@
 # API参考
 
+为注明均为`GET`请求
+
 ## /login
 
-二维码登录
+二维码登录页面，获得登录会话
+
+## /login/check
+
+在登录会话中检查登录状态
+
+## /login/code
+
+在登录会话中`POST`提交验证码
 
 ## /add/:id?k=xxx
 

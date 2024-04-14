@@ -10,9 +10,6 @@ Docker镜像为`ttttmr/wechat2rss`
 > 一键安装Docker和Docker Compose
 > `curl -fsSL "https://get.docker.com" | /bin/sh`
 
-> [!IMPORTANT]
-> 推荐使用国内服务器/本地NAS部署，避免遇到微信异地登陆风控问题
-
 ### Docker部署
 
 Docker命令参考
@@ -95,6 +92,8 @@ docker compose up -d
 > 在微信中打开任意一篇公众号文章，点击分享，选择`在微信读书中阅读`，完成微信读书授权
 
 访问`/login`，微信扫码登录
+
+如果手机端提示异地登陆验证，请在网页中填写提交
 
 > [!TIP]
 > 完成扫码并成功登录后，若需退出当前账号或重新登录，请先在微信阅读App的设备管理删除本设备
