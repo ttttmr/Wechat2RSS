@@ -4,10 +4,10 @@ services:
     container_name: wechat2rss
     image: "ttttmr/wechat2rss:latest"
     environment:
-      - LIC_EMAIL="i@xlab.app" # 授权邮箱
-      - LIC_CODE="xxxx" # 激活码
+      - LIC_EMAIL=i@xlab.app # 授权邮箱
+      - LIC_CODE=xxxx # 激活码
       - RSS_HTTPS=0 # 是否开启HTTPS
-      - RSS_HOST="192.168.11.22:8080" # 服务器地址
+      - RSS_HOST=192.168.11.22:8080 # 服务器地址
     volumes:
       - ./data:/wechat2rss # 数据持久化保存
     ports:

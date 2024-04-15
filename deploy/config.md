@@ -5,7 +5,7 @@
 ## LISTEN
 
 ```shell
-LISTEN="8080"
+LISTEN=8080
 ```
 
 控制`docker-compose.yml`中服务监听，可不填，默认监听`8080`端口
@@ -15,7 +15,7 @@ LISTEN="8080"
 > [!IMPORTANT] 必填项
 
 ```shell
-LIC_EMAIL="i@xlab.app"
+LIC_EMAIL=i@xlab.app
 ```
 
 授权邮箱
@@ -25,7 +25,7 @@ LIC_EMAIL="i@xlab.app"
 > [!IMPORTANT] 必填项
 
 ```shell
-LIC_CODE="f2aa6823-b2a6-4670-9acd-0e26d1204a43"
+LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43
 ```
 
 授权激活码
@@ -35,7 +35,7 @@ LIC_CODE="f2aa6823-b2a6-4670-9acd-0e26d1204a43"
 > [!IMPORTANT] 必填项
 
 ```shell
-RSS_HOST="192.168.1.1:8080"
+RSS_HOST=192.168.1.1:8080
 ```
 
 生成的RSS的域名，需包含端口号
@@ -51,7 +51,7 @@ RSS_HTTPS=0
 ## RSS_TOKEN
 
 ```shell
-RSS_TOKEN="password123"
+RSS_TOKEN=password123
 ```
 
 对添加订阅进行保护，即`/add/:id`接口
@@ -77,7 +77,7 @@ RSS_ENC_FEED_ID=0
 ## RSS_SECRET
 
 ```shell
-RSS_SECRET="abcdef123"
+RSS_SECRET=abcdef123
 ```
 
 用于加密的密钥，可不填，会自动随机生成
@@ -100,7 +100,7 @@ RSS_STATIC=0
 > `BOT_TG_TOKEN`和`BOT_TG_ADMIN_UID`需要同时填写
 
 ```shell
-BOT_TG_TOKEN="123:abcd"
+BOT_TG_TOKEN=123:abcd
 ```
 
 通过Telegram Bot推送服务消息，填写`Bot Token`
@@ -111,7 +111,7 @@ BOT_TG_TOKEN="123:abcd"
 > `BOT_TG_TOKEN`和`BOT_TG_ADMIN_UID`需要同时填写
 
 ```shell
-BOT_TG_ADMIN_UID="12345"
+BOT_TG_ADMIN_UID=12345
 ```
 
 通过Telegram Bot推送服务消息到指定用户
@@ -122,7 +122,7 @@ BOT_TG_ADMIN_UID="12345"
 ## BOT_SERVER_KEY
 
 ```shell
-BOT_SERVER_KEY="SCT123456"
+BOT_SERVER_KEY=SCT123456
 ```
 
 通过[Server酱](https://sct.ftqq.com/)推送服务消息

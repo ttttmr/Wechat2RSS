@@ -19,10 +19,10 @@ docker run -d \
   --name wechat2rss \
   -v ./data:/wechat2rss \
   -p 8080:8080 \
-  -e LIC_EMAIL="i@xlab.app" \
-  -e LIC_CODE="f2aa6823-b2a6-4670-9acd-0e26d1204a43" \
+  -e LIC_EMAIL=i@xlab.app \
+  -e LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43 \
   -e RSS_HTTPS=0 \
-  -e RSS_HOST="192.168.123.123:8080" \
+  -e RSS_HOST=192.168.123.123:8080 \
   ttttmr/wechat2rss:latest
 ```
 
