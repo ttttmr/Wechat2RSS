@@ -6,12 +6,11 @@ services:
     environment:
       - LIC_EMAIL=i@xlab.app # 授权邮箱
       - LIC_CODE=xxxx # 激活码
-      - RSS_HTTPS=0 # 是否开启HTTPS
       - RSS_HOST=192.168.11.22:8080 # 服务器地址
     volumes:
       - ./data:/wechat2rss # 数据持久化保存
     ports:
-      - "8080:8080" # 监听端口映射
+      - "8080:8080" # 监听端口映射，例如修改到8081端口，8081:8080
     deploy: # 自动重启策略
       restart_policy:
         condition: on-failure

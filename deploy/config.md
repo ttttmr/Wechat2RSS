@@ -2,14 +2,6 @@
 
 服务通过环境变量进行配置
 
-## LISTEN
-
-```shell
-LISTEN=8080
-```
-
-控制`docker-compose.yml`中服务监听，可不填，默认监听`8080`端口
-
 ## LIC_EMAIL
 
 > [!IMPORTANT] 必填项
@@ -38,7 +30,7 @@ LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43
 RSS_HOST=192.168.1.1:8080
 ```
 
-生成的RSS的域名，需包含端口号
+生成的RSS的地址，需包含端口号
 
 ## RSS_HTTPS
 
@@ -46,7 +38,9 @@ RSS_HOST=192.168.1.1:8080
 RSS_HTTPS=0
 ```
 
-生成的RSS是否使用HTTPS，`0`为不使用，`1`为使用，默认为`0`
+控制生成的RSS内容中本站链接是否为`https`，如RSS的`link地址`和`图片代理地址`
+
+`0`为不使用，`1`为使用，默认为`0`
 
 ## RSS_TOKEN
 
@@ -54,12 +48,13 @@ RSS_HTTPS=0
 RSS_TOKEN=password123
 ```
 
-对添加订阅进行保护，即`/add/:id`接口
+对添加/删除订阅进行保护，需要增加`k`参数访问
 
-需要增加`k`参数访问
+即`/add/:id`和`/del/:id`接口
 
 ```shell
 /add/12345?k=password123
+/del/12345?k=password123
 ```
 
 ## RSS_ENC_FEED_ID

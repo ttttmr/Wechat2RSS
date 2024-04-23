@@ -22,6 +22,12 @@
 
 `k`参数为[RSS_TOKEN](./config#rss-token)配置值
 
+## /del/:id?k=xxx
+
+根据公众号ID删除订阅
+
+`k`参数为[RSS_TOKEN](./config#rss-token)配置值
+
 ## /feed/:id.xml
 
 RSS订阅地址

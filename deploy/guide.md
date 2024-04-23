@@ -21,10 +21,12 @@ docker run -d \
   -p 8080:8080 \
   -e LIC_EMAIL=i@xlab.app \
   -e LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43 \
-  -e RSS_HTTPS=0 \
   -e RSS_HOST=192.168.123.123:8080 \
   ttttmr/wechat2rss:latest
 ```
+> [!IMPORTANT] 数据保存提示
+> 务必将容器`/wechat2rss`目录进行持久化保存，并妥善保管持久化之后的目录文件如`./data`
+> 后续升级或迁移服务等操作，请注意依然将此文件夹映射为容器中的`/wechat2rss`目录
 
 填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
 
@@ -32,10 +34,6 @@ docker run -d \
 
 > [!TIP]
 > 完整配置和说明见[参数配置](config)
-
-> [!IMPORTANT]
-> 务必将`/wechat2rss`目录进行持久化保存，并妥善保管持久化之后的目录文件如`./data`
-> 后续升级或迁移服务等操作，请注意依然将此文件夹映射为容器中的`/wechat2rss`目录
 
 #### 升级
 
@@ -111,6 +109,10 @@ atob(biz)
 ```
 
 访问`/add/公众号ID`，添加成功后自动跳转到订阅链接(公众号ID请忽略引号)
+
+### 删除订阅
+
+访问`/del/公众号ID`
 
 ## 服务管理
 

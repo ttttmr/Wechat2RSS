@@ -9,6 +9,9 @@ export default defineConfig({
   },
   lastUpdated: true,
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     editLink: {
       pattern: 'https://github.com/ttttmr/Wechat2RSS/edit/master/:path',
       text: '在 GitHub 上编辑此页面'
@@ -41,6 +44,7 @@ export default defineConfig({
             { text: 'API参考', link: '/deploy/api' },
             { text: '常见问题', link: '/deploy/qa' },
             { text: '发布记录', link: '/deploy/changelog' },
+            { text: '激活与反激活', link: '/deploy/active' },
           ]
         }
       ]
