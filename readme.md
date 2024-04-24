@@ -27,3 +27,7 @@ https://wechat2rss.xlab.app
 ## Thanks
 
 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ttttmr/Wechat2RSS&type=Date)](https://star-history.com/#ttttmr/Wechat2RSS&Date)
