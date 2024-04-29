@@ -17,11 +17,11 @@ Docker命令参考
 ```shell
 docker run -d \
   --name wechat2rss \
-  -v ./data:/wechat2rss \
-  -p 8080:8080 \
-  -e LIC_EMAIL=i@xlab.app \
-  -e LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43 \
-  -e RSS_HOST=192.168.123.123:8080 \
+  -v ./data:/wechat2rss \ # 数据保存目录，./data可以改成其他目录
+  -p 8080:8080 \ # 端口映射，可以改为9090:8080
+  -e LIC_EMAIL=i@xlab.app \ # 授权邮箱
+  -e LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43 \ # 激活码
+  -e RSS_HOST=192.168.123.123:8080 \ # 服务器地址
   ttttmr/wechat2rss:latest
 ```
 
@@ -32,9 +32,8 @@ docker run -d \
 填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
 
 > [!TIP]
-> `RSS_HOST`是生成的RSS的地址，需包含端口号
-> 
-> `-e`参数可以添加更多环境变量，完整配置和说明见[参数配置](config)
+> `-e`参数可以添加更多环境变量
+> 完整配置和说明见[参数配置](config)
 
 #### 升级
 
