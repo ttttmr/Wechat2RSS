@@ -8,8 +8,16 @@
 
 查看最新100条日志
 
+docker部署使用这个命令查看
+
 ```shell
 docker logs wechat2rss -n 100
+```
+
+如果是docker compose部署
+
+```shell
+docker compose logs -n 100
 ```
 
 ## 频率限制问题

@@ -24,16 +24,17 @@ docker run -d \
   -e RSS_HOST=192.168.123.123:8080 \
   ttttmr/wechat2rss:latest
 ```
+
 > [!IMPORTANT] 数据保存提示
 > 务必将容器`/wechat2rss`目录进行持久化保存，并妥善保管持久化之后的目录文件如`./data`
 > 后续升级或迁移服务等操作，请注意依然将此文件夹映射为容器中的`/wechat2rss`目录
 
 填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
 
-`-e`参数可以添加更多环境变量
-
 > [!TIP]
-> 完整配置和说明见[参数配置](config)
+> `RSS_HOST`是生成的RSS的地址，需包含端口号
+> 
+> `-e`参数可以添加更多环境变量，完整配置和说明见[参数配置](config)
 
 #### 升级
 
