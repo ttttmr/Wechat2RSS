@@ -22,7 +22,7 @@ docker compose logs -n 100
 
 ## 频率限制问题
 
-日志中体现为`被微信限频...`，如果配置了消息通知，收到消息通知为`需要验证`
+日志中体现为`被微信限频...`或者`need check`，如果配置了消息通知，收到消息通知为`需要验证`
 
 解除限制问题需要进行以下操作
 
@@ -39,3 +39,15 @@ docker compose logs -n 100
 目前会更新[发布记录](./changelog.md)，所以可以用RSSHub订阅这个文件的修改
 
 [版本发布RSS](https://rsshub.app/github/file/ttttmr/Wechat2RSS/master/deploy/changelog.md)
+
+## 机器配置要求
+
+由于内嵌Chromium，内存需求较高，建议配置2G以上内存
+
+但如果你手头只有小内存机器，也可以尝试部署
+
+> [!TIP] 即使未付费，也可以尝试部署验证
+> 不填写LIC相关配置即可
+> 正常运行后会在日志中提示没有Licence
+
+如果遇到报错如`fatal error: runtime: out of memory`，则说明内存不够

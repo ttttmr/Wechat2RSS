@@ -48,14 +48,14 @@ RSS_HTTPS=0
 RSS_TOKEN=password123
 ```
 
-对添加/删除订阅进行保护，需要增加`k`参数访问
-
-即`/add/:id`和`/del/:id`接口
+对添加/删除/列出订阅等动作进行保护，需要增加`k`参数访问
 
 ```shell
 /add/12345?k=password123
 /del/12345?k=password123
 ```
+
+详细API地址参见[API参考](./api)
 
 ## RSS_ENC_FEED_ID
 
@@ -85,7 +85,7 @@ RSS_STATIC=0
 
 对RSS订阅内容静态化，`0`为不使用，`1`为使用
 
-开启后会将RSS文件保存到`data/web/feed`目录中
+开启后会将RSS文件保存到数据目录中`web/feed`目录中
 
 同时`/feed/*.xml`由此目录静态文件提供
 
