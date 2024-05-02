@@ -10,6 +10,36 @@ Docker镜像为`ttttmr/wechat2rss`
 > 一键安装Docker和Docker Compose
 > `curl -fsSL "https://get.docker.com" | /bin/sh`
 
+### Docker Compose 部署（推荐）
+
+下载`docker-compose.yml`
+
+```shell
+wget https://wechat2rss.xlab.app/docker-compose.yml
+```
+
+修改配置文件，填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
+
+```shell
+vi docker-compose.yml
+```
+
+> [!TIP]
+> 完整配置和说明见[参数配置](config)
+
+启动服务
+
+```shell
+docker compose up -d
+```
+
+#### 升级
+
+```shell
+docker compose pull
+docker compose up -d
+```
+
 ### Docker部署
 
 Docker命令参考
@@ -51,36 +81,6 @@ docker pull ttttmr/wechat2rss:latest
 ```
 
 然后重新执行安装步骤
-
-### Docker Compose 部署
-
-下载`docker-compose.yml`
-
-```shell
-wget https://wechat2rss.xlab.app/docker-compose.yml
-```
-
-修改配置，填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
-
-```shell
-vi docker-compose.yml
-```
-
-> [!TIP]
-> 完整配置和说明见[参数配置](config)
-
-启动服务
-
-```shell
-docker compose up -d
-```
-
-#### 升级
-
-```shell
-docker compose pull
-docker compose up -d
-```
 
 ## 登录和使用
 
