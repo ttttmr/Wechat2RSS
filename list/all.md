@@ -763,3 +763,7 @@
 [差评](https://wechat2rss.xlab.app/feed/8d839de8dd3290a1f1be7a94423cccb30c1b087d.xml)
 
 [dbaplus社群](https://wechat2rss.xlab.app/feed/3b9cc8887fccb80d3f083cd6eb8c344628d101b6.xml)
+
+[得物技术](https://wechat2rss.xlab.app/feed/f3a42bd249ec6e8834ae761d8d0f85a949950944.xml)
+
+[Datawhale](https://wechat2rss.xlab.app/feed/4d620d988cb21cfeefd2263207221f0dc70df9ff.xml)
