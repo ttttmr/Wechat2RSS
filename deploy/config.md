@@ -127,3 +127,22 @@ BOT_SERVER_KEY=SCT123456
 ```
 
 通过[Server酱](https://sct.ftqq.com/)推送服务消息
+
+## BOT_WEBHOOK_URL
+
+```shell
+BOT_WEBHOOK_URL=https://xxx.com/webhook/xx
+```
+
+通过Webhook推送服务消息，填写`Webhook URL`
+
+将以`POST`请求发送JSON数据，格式如下
+
+```json
+{
+    "msg_type": "text", // 固定值
+    "content": {
+        "text": "hello" // 消息内容
+    }
+}
+```
