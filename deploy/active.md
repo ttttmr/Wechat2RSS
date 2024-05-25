@@ -29,6 +29,7 @@ export default {
         this.status = "输入邮箱和激活码";
         return;
       }
+      this.status = "提交中...";
 
       fetch("/auth/clear", {
         method: "POST",
