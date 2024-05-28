@@ -1,10 +1,17 @@
 # 发布记录
 
+## v1.0.15
+
+2024-05-28
+
+- fix: 内存占用优化
+- fix: 默认输出最大RSS文章数量为20，可通过[RSS_MAX_ITEM_COUNT](./config#rss-max-item-count)配置修改
+
 ## v1.0.14
 
 2024-05-23
 
-- feat: 支持WebHook通知，适配飞书
+- feat: 支持WebHook通知，适配飞书，通过[BOT_WEBHOOK_URL](./config#bot-webhook-url)配置
 - feat: 服务启动时发送消息
 
 ## v1.0.13

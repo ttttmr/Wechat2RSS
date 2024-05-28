@@ -2,7 +2,7 @@
 
 ## 部署安装与升级
 
-推荐使用Docker/Docker Compose部署，推荐2G内存以上配置
+推荐使用Docker/Docker Compose部署，推荐1G内存以上配置
 
 Docker镜像为`ttttmr/wechat2rss`
 

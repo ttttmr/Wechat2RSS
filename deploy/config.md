@@ -95,6 +95,14 @@ RSS_STATIC=0
 > [!TIP] 推荐第一次部署就设置好
 > 后续开启时，只有`新订阅`/`旧订阅触发更新`时才会生成xml文件
 
+## RSS_MAX_ITEM_COUNT
+
+```shell
+RSS_MAX_ITEM_COUNT=20
+```
+
+控制最大RSS输出数量，默认为20
+
 ## BOT_TG_TOKEN
 
 > [!IMPORTANT]
