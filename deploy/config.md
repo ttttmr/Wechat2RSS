@@ -101,7 +101,7 @@ RSS_STATIC=0
 RSS_MAX_ITEM_COUNT=20
 ```
 
-控制最大RSS输出数量，默认为20
+控制RSS最大输出文章数量，默认为20
 
 ## BOT_TG_TOKEN
 
