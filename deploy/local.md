@@ -2,7 +2,7 @@
 
 ## 内网穿透
 
-全功能对外访问，通过`RSS_TOKEN`
+全功能对外访问，通过[RSS_TOKEN](./config#rss-token)保护管理功能
 
 TODO 参考Google搜索
 
