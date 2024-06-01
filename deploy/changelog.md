@@ -6,6 +6,7 @@
 
 - feat: 拆分代理配置，可通过[RSS_PROXY_SECRET](./config#rss-proxy-secret)和[RSS_PROXY_PREFIX](./config#rss-proxy-prefix)进行配置
 - feat: [支持Serverless代理](./serverless)，公开服务中视频代理可用
+- fix: 修复多次群发检测问题
 
 ## v1.0.17
 
