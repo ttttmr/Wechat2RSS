@@ -45,6 +45,8 @@ export default defineConfig({
             { text: '常见问题', link: '/deploy/qa' },
             { text: '发布记录', link: '/deploy/changelog' },
             { text: '激活与反激活', link: '/deploy/active' },
+            { text: '内网部署', link: '/deploy/local' },
+            { text: 'Serverless代理', link: '/deploy/serverless' },
           ]
         }
       ]

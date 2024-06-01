@@ -32,6 +32,8 @@ RSS_HOST=192.168.1.1:8080
 
 生成的RSS的地址，需包含端口号
 
+此配置仅控制生成内容中的链接地址，不会影响实际访问后台的地址
+
 ## RSS_HTTPS
 
 ```shell
@@ -41,6 +43,8 @@ RSS_HTTPS=0
 控制生成的RSS内容中本站链接是否为`https`，如RSS的`link地址`和`图片代理地址`
 
 `0`为不使用，`1`为使用，默认为`0`
+
+此配置仅控制生成内容中的链接地址，不会影响实际访问后台的协议
 
 ## RSS_TOKEN
 
@@ -102,6 +106,26 @@ RSS_MAX_ITEM_COUNT=20
 ```
 
 控制RSS最大输出文章数量，默认为20
+
+## RSS_PROXY_SECRET
+
+```shell
+RSS_PROXY_SECRET=abcd1234
+```
+
+用于加密的密钥，不填时自动随机生成
+
+部署Serverless时建议手动填写
+
+## RSS_PROXY_PREFIX
+
+```shell
+RSS_PROXY_PREFIX=https://wechat2rss.xlab.app
+```
+
+默认通过`RSS_HTTPS`和`RSS_HOST`配置自动生成
+
+部署Serverless时如果使用的域名不同需要手动填写
 
 ## BOT_TG_TOKEN
 
