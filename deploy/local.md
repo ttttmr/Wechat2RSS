@@ -18,6 +18,8 @@ TODO 参考Google搜索
 
 例如将通过Git提交到GitHub，通过GitHub Pages等服务部署
 
+![](/image/local.png)
+
 此时订阅地址应该改为静态服务地址，为了方便在Wechat2RSS服务中管理，需要对应修改[RSS_HOST](./config#rss-host)和[RSS_HTTPS](./config#rss-https)配置
 
 图片代理参考文档[使用Serverless代理](./serverless)
