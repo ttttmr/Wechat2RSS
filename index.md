@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "微信公众号转RSS"
+  name: "Wechat2RSS"
   # text: "xxx"
-  tagline: 提供长期稳定可用的微信公众号转RSS服务
+  tagline: 提供长期稳定可用的微信公众号RSS服务
   actions:
     - theme: brand
       text: 免费公众号

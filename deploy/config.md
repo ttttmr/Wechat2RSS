@@ -1,10 +1,14 @@
 # 参数配置
 
-服务通过环境变量进行配置
+服务通过环境变量进行配置，也可通过服务配置页进行配置
+
+优先级：环境变量 > 已存储的配置 = 服务配置页提交配置
+
+服务启动时会将环境变量配置**覆盖导入**数据库中，` 第一次启动必填项`配置在后续部署启动时可以删除
 
 ## LIC_EMAIL
 
-> [!IMPORTANT] 必填项
+> [!IMPORTANT] 第一次启动必填项
 
 ```shell
 LIC_EMAIL=i@xlab.app
@@ -14,7 +18,7 @@ LIC_EMAIL=i@xlab.app
 
 ## LIC_CODE
 
-> [!IMPORTANT] 必填项
+> [!IMPORTANT] 第一次启动必填项
 
 ```shell
 LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43
@@ -24,7 +28,7 @@ LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43
 
 ## RSS_HOST
 
-> [!IMPORTANT] 必填项
+> [!IMPORTANT] 第一次启动必填项
 
 ```shell
 RSS_HOST=192.168.1.1:8080

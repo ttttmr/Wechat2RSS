@@ -1,5 +1,7 @@
 # 使用Serverless代理
 
+服务默认提供图片/视频代理，无需配置即可使用，也可独立部署Serverless服务实现
+
 ## Cloudflare Worker
 
 在这里[下载脚本](/scripts/cf-worker.js)

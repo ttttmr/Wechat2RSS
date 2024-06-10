@@ -2,12 +2,26 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "微信公众号转RSS",
-  description: "微信公众号转RSS服务",
+  title: "Wechat2RSS",
+  description: "微信公众号RSS服务",
   sitemap: {
     hostname: 'https://wechat2rss.xlab.app'
   },
   lastUpdated: true,
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-H7VDKD5SEH' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-H7VDKD5SEH');`
+    ]
+  ],
   themeConfig: {
     search: {
       provider: 'local'
@@ -24,33 +38,34 @@ export default defineConfig({
       { text: "博客", link: "https://blog.xlab.app" },
     ],
 
-    sidebar: {
-      '/list/': [
-        {
-          text: '免费公众号',
-          items: [
-            { text: '合集订阅', link: '/list/' },
-            { text: '完整列表', link: '/list/list' },
-          ]
-        },
-      ],
-      '/deploy/': [
-        {
-          text: '私有部署',
-          items: [
-            { text: '定价', link: '/deploy/' },
-            { text: '使用指南', link: '/deploy/guide' },
-            { text: '参数配置', link: '/deploy/config' },
-            { text: 'API参考', link: '/deploy/api' },
-            { text: '常见问题', link: '/deploy/qa' },
-            { text: '发布记录', link: '/deploy/changelog' },
-            { text: '激活与反激活', link: '/deploy/active' },
-            { text: '内网部署', link: '/deploy/local' },
-            { text: 'Serverless代理', link: '/deploy/serverless' },
-          ]
-        }
-      ]
-    },
+    sidebar: [
+      {
+        text: '免费公众号',
+        items: [
+          { text: '合集订阅', link: '/list/' },
+          { text: '完整列表', link: '/list/all' },
+        ]
+      },
+      {
+        text: '私有部署',
+        items: [
+          { text: '购买和定价', link: '/deploy/' },
+          { text: '发布记录', link: '/deploy/changelog' },
+          { text: '激活与反激活', link: '/deploy/active' },
+        ]
+      },
+      {
+        text: '私有部署文档',
+        items: [
+          { text: '使用指南', link: '/deploy/guide' },
+          { text: '常见问题', link: '/deploy/qa' },
+          { text: '服务配置', link: '/deploy/config' },
+          { text: 'API参考', link: '/deploy/api' },
+          { text: '内网部署', link: '/deploy/local' },
+          { text: 'Serverless代理', link: '/deploy/serverless' },
+        ]
+      },
+    ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ttttmr/wechat2rss' }
     ]
