@@ -1,16 +1,18 @@
 # 使用指南
 
+软件以Docker镜像的形式发布，Docker镜像为`ttttmr/wechat2rss`
+
 ## 部署安装与升级
 
-推荐使用Docker/Docker Compose部署，推荐1G内存以上配置
+如果你有服务器，推荐使用Docker Compose部署，服务器推荐1G内存以上配置
 
-Docker镜像为`ttttmr/wechat2rss`
+如果你没有服务器，也不熟悉Docker，可以[一键部署到Railway](#railway部署)
+
+## Docker Compose 部署（推荐）
 
 > [!TIP]
 > 一键安装Docker和Docker Compose
 > `curl -fsSL "https://get.docker.com" | /bin/sh`
-
-### Docker Compose 部署（推荐）
 
 下载`docker-compose.yml`
 
@@ -33,14 +35,14 @@ vi docker-compose.yml
 docker compose up -d
 ```
 
-#### 升级
+### 升级
 
 ```shell
 docker compose pull
 docker compose up -d
 ```
 
-### Docker部署
+## Docker部署
 
 Docker命令参考
 
@@ -65,7 +67,7 @@ docker run -d \
 > `-e`参数可以添加更多环境变量
 > 完整配置和说明见[参数配置](config)
 
-#### 升级
+### 升级
 
 删除旧容器
 
@@ -81,6 +83,24 @@ docker pull ttttmr/wechat2rss:latest
 ```
 
 然后重新执行安装步骤
+
+## Railway部署
+
+点击一键部署，包含自动升级更新
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/KIQWgJ?referralCode=t4q678)
+
+配置页填入`LIC_EMAIL`为邮箱，`LIC_CODE`为激活码
+
+> [!TIP]
+> 完整配置和说明见[参数配置](config)
+
+一段时间部署完成后，rss服务会自动分配一个`xxx.railway.app`的域名，打开就可以使用了
+
+打开后在服务配置页，填写RSS_TOKEN用于服务认证，确保只有知道这个TOKEN的人才能使用（相当于密码）
+
+> [!TIP] Railway计费说明
+> https://railway.app/pricing
 
 ## 登录和使用
 
