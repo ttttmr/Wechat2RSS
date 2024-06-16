@@ -1,0 +1,13 @@
+{
+    "$schema": "https://railway.app/railway.schema.json",
+    "build": {
+        "buildCommand": "curl https://wechat2rss.xlab.app/release/server -o server",
+        "watchPatterns": [
+            "/deploy/changelog.md"
+        ]
+    },
+    "deploy": {
+        "restartPolicyType": "ON_FAILURE",
+        "restartPolicyMaxRetries": 5
+    }
+}
