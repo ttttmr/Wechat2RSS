@@ -182,3 +182,11 @@ BOT_WEBHOOK_URL=https://xxx.com/webhook/xx
     }
 }
 ```
+
+## BOT_BARK_URL
+
+```shell
+BOT_BARK_URL=https://api.day.app/xxx/这里改成你自己的推送内容
+```
+
+直接复制任意一个`Bark`推送的地址填写即可，**无需修改**
