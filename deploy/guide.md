@@ -1,10 +1,10 @@
 # 使用指南
 
-软件以Docker镜像的形式发布，Docker镜像为`ttttmr/wechat2rss`
+软件以Docker镜像的形式发布，Docker镜像为`ttttmr/wechat2rss`，有`amd64`和`arm64`两个版本，支持Apple Silicon
 
 ## 部署安装与升级
 
-如果你有服务器，推荐使用Docker Compose部署，服务器推荐1G内存以上配置
+如果你有服务器/电脑，推荐使用Docker Compose部署，推荐1G内存以上配置
 
 如果你没有服务器，也不熟悉Docker，可以[一键部署到Railway](#railway部署)
 
