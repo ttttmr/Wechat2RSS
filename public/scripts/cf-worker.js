@@ -49,6 +49,38 @@ async function vproxy(docUrl, vid) {
   return error("Video not found");
 }
 
+async function jump(url) {
+  const u = new URL("https://mp.weixin.qq.com/mp/jumptoweixin");
+  u.searchParams.set("link", url);
+  u.searchParams.set("query", "clickpos=0&clicktag=bar_profile");
+  u.searchParams.set("click_type", "bar_profile");
+
+  const resp = await net.wfetch({}, u.toString(), {
+    method: "POST",
+    headers: {
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      origin: "https://mp.weixin.qq.com",
+      referer: url,
+    },
+  });
+  const json = await resp.json();
+  if (json.url) {
+    return new Response(null, {
+      status: 302,
+      headers: {
+        location: json.url,
+      },
+    });
+  } else {
+    return new Response(null, {
+      status: 302,
+      headers: {
+        location: url,
+      },
+    });
+  }
+}
+
 async function main(req, env) {
   try {
     if (req.method !== "GET") {
@@ -58,6 +90,7 @@ async function main(req, env) {
     const url = u.searchParams.get("u");
     const key = u.searchParams.get("k");
     const vid = u.searchParams.get("v") || "";
+    const r = u.searchParams.get("r") || "";
     if (!url || !key || key.length !== 8) {
       return error("Params is invalid");
     }
@@ -76,9 +109,11 @@ async function main(req, env) {
     }
     if (vid) {
       return await vproxy(url, vid);
-    } else {
-      return await wfetch(url);
     }
+    if (r) {
+      return await jump(url);
+    }
+    return await wfetch(url);
   } catch (e) {
     return error(e.message);
   }

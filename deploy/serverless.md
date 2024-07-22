@@ -36,6 +36,7 @@ RSS_PROXY_PREFIX=https://xx.workers.dev
 ```shell
 rss.example.com/img-proxy/*
 rss.example.com/video-proxy/*
+rss.example.com/link-proxy/*
 ```
 
 Wechat2RSS服务环境变量配置参考

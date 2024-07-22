@@ -14,7 +14,7 @@
 LIC_EMAIL=i@xlab.app
 ```
 
-授权邮箱
+授权邮箱（全小写）
 
 ## LIC_CODE
 

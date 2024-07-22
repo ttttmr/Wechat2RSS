@@ -4,6 +4,8 @@
 
 用户Telegram群组：[邀请链接](https://t.me/+8COw6-luUoVlZGVh)
 
+微信群：加微信ie11235，备注wechat2rss
+
 ## 如何查看日志
 
 查看最新100条日志
@@ -23,6 +25,8 @@ docker compose logs -n 100
 ## 频率限制/微信风控问题
 
 日志中体现为`被微信限频...`或者`need check`，如果配置了消息通知，收到消息通知为`需要验证`
+
+或者添加订阅后，RSS里内容是空的，可以查看日志确认问题
 
 解除限制问题需要进行以下操作
 
@@ -109,13 +113,13 @@ docker compose logs -n 100
 
 如更换VPS部署，复制数据目录，保持相同的文件目录结构后直接启动即可
 
-如现有服务部署如下
+例如现有服务部署目录结构如下
 
 ```
 /data/wechat2rss
-- docker-compose.yml
-- data
-  - res.db
+  - docker-compose.yml
+  - data
+    - res.db
 ```
 
 关闭现有服务，复制整个`wechat2rss`目录到新服务器上
