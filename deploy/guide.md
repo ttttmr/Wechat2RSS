@@ -97,7 +97,7 @@ docker pull ttttmr/wechat2rss:latest
 
 一段时间部署完成后，rss服务会自动分配一个`xxx.railway.app`的域名，打开就可以使用了
 
-打开后在服务配置页，填写RSS_TOKEN用于服务认证，确保只有知道这个TOKEN的人才能使用（相当于密码）
+默认配置RSS_TOKEN为注册的邮箱，需要在页面中填写，否则会提示`token is wrong`
 
 > [!TIP] Railway计费说明
 > https://railway.app/pricing
