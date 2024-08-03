@@ -124,7 +124,19 @@ RSS订阅地址
 
 全文输出使用的图片代理
 
-`k`为验证参数，为`u`被`HMAC`计算后的8字符前缀，密码由[RSS_SECRET](./config#rss-secret)提供
+`k`为验证参数，为`u`被`HMAC`计算后的8字符前缀，密码由[RSS_PROXY_SECRET](./config#rss-proxy-secret)提供
+
+## /video-proxy?u=<http://xx&k=xx>
+
+全文输出使用的图片代理
+
+`k`为验证参数，为`u`被`HMAC`计算后的8字符前缀，密码由[RSS_PROXY_SECRET](./config#rss-proxy-secret)提供
+
+## /link-proxy?<http://xx&k=xx>
+
+跳转微信打开
+
+`k`为验证参数，为`u`被`HMAC`计算后的8字符前缀，密码由[RSS_PROXY_SECRET](./config#rss-proxy-secret)提供
 
 ## /version
 
