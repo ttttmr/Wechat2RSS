@@ -644,6 +644,8 @@
 
 [连续创业的Janky](https://wechat2rss.xlab.app/feed/66f13ba7620a53ca279f679a8a956f43255fb579.xml)
 
+[ChainReactor](https://wechat2rss.xlab.app/feed/3f75ff947e69e405fc675d0f698988fc56876fc2.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)
