@@ -18,7 +18,7 @@ https://wechat2rss.xlab.app
 
 推荐[watch本仓库](https://github.com/ttttmr/wechat2rss)，收到新公众号收录通知
 
-欢迎[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)到本仓库进行收录
+欢迎[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)到本仓库进行收录，可参见[收录标准](https://wechat2rss.xlab.app/list/new)
 
 ## 付费软件
 

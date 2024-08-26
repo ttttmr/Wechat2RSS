@@ -9,7 +9,7 @@
 > [!TIP]
 > 完整列表见[全部公众号列表](./all)
 
-可以在GitHub中提交，[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)
+可以在GitHub中提交，[推荐公众号](https://github.com/ttttmr/wechat2rss/issues)，可参见[收录标准](https://wechat2rss.xlab.app/list/new)
 
 可以[watch仓库](https://github.com/ttttmr/Wechat2RSS)，收到新公众号收录通知
 

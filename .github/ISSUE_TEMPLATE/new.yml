@@ -17,7 +17,7 @@ body:
   - type: textarea
     attributes:
       label: 介绍
-      description: 告诉大家这个公众号主要是讲什么的
+      description: 主要是讲什么的，[收录标准](https://wechat2rss.xlab.app/list/new)
     validations:
       required: true
   - type: textarea
