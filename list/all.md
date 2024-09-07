@@ -646,6 +646,8 @@
 
 [ChainReactor](https://wechat2rss.xlab.app/feed/3f75ff947e69e405fc675d0f698988fc56876fc2.xml)
 
+[数说安全](https://wechat2rss.xlab.app/feed/b15a925f83a4b108b957f8dd0e8030b6caa7da5e.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)

@@ -327,6 +327,7 @@
             <outline text="榫卯江湖" title="榫卯江湖" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/d1988b840deaf6a79edd32e83a1b152038f1b6a1.xml" htmlUrl="https://wechat2rss.xlab.app/feed/d1988b840deaf6a79edd32e83a1b152038f1b6a1.xml" />
             <outline text="连续创业的Janky" title="连续创业的Janky" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/66f13ba7620a53ca279f679a8a956f43255fb579.xml" htmlUrl="https://wechat2rss.xlab.app/feed/66f13ba7620a53ca279f679a8a956f43255fb579.xml" />
             <outline text="ChainReactor" title="ChainReactor" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/3f75ff947e69e405fc675d0f698988fc56876fc2.xml" htmlUrl="https://wechat2rss.xlab.app/feed/3f75ff947e69e405fc675d0f698988fc56876fc2.xml" />
+            <outline text="数说安全" title="数说安全" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/b15a925f83a4b108b957f8dd0e8030b6caa7da5e.xml" htmlUrl="https://wechat2rss.xlab.app/feed/b15a925f83a4b108b957f8dd0e8030b6caa7da5e.xml" />
         </outline>
     </body>
 </opml>
