@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: *.png$
+Disallow: /img-proxy/
+Disallow: /video-proxy/
+Disallow: /link-proxy/
 
 Sitemap: https://wechat2rss.xlab.app/sitemap.xml
