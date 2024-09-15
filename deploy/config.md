@@ -131,6 +131,16 @@ RSS_PROXY_PREFIX=https://wechat2rss.xlab.app
 
 部署Serverless时如果使用的域名不同需要手动填写
 
+## RSS_PROXY_DISABLE_IMG
+
+```shell
+RSS_PROXY_DISABLE_IMG=0
+```
+
+关闭图片代理功能，使用原始的微信图片地址
+
+`1`为启用，即关闭代理，`0`为不启用，默认为`0`
+
 ## BOT_TG_TOKEN
 
 > [!IMPORTANT]

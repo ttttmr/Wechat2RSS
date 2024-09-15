@@ -1,5 +1,11 @@
 # 发布记录
 
+## v1.1.11
+
+2024-09-15
+
+- feat: 增加关闭图片代理选项，参考配置[RSS_PROXY_DISABLE_IMG](./config#rss-proxy-disable-img)
+
 ## v1.1.10
 
 2024-08-19
