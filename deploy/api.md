@@ -83,6 +83,12 @@
 }
 ```
 
+## /opml?k=xxx
+
+导出opml订阅源的下载链接
+
+`k`参数为[RSS_TOKEN](./config#rss-token)配置值，如果未设置，则不需要该参数
+
 ## /config?k=xxx
 
 `k`参数为[RSS_TOKEN](./config#rss-token)配置值，如果未设置，则不需要该参数
