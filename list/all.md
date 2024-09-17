@@ -690,6 +690,8 @@
 
 [42章经](https://wechat2rss.xlab.app/feed/31436fcc3bba8c2c2a9337a163afcb3b5a57a0a0.xml)
 
+[也谈钱](https://wechat2rss.xlab.app/feed/f2fd5af8dc3590b99509f0c501de09066d063028.xml)
+
 ## 用户提交
 
 [关注米柚更新](https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml)
@@ -777,3 +779,13 @@
 [得物技术](https://wechat2rss.xlab.app/feed/f3a42bd249ec6e8834ae761d8d0f85a949950944.xml)
 
 [Datawhale](https://wechat2rss.xlab.app/feed/4d620d988cb21cfeefd2263207221f0dc70df9ff.xml)
+
+[集思录](https://wechat2rss.xlab.app/feed/f75bbb0bffd9fd6e0dda725282202ccc23a2bdff.xml)
+
+[思想钢印](https://wechat2rss.xlab.app/feed/a55006fab25a17c43a412246fda317822609f2ea.xml)
+
+[新智元](https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml)
+
+[量子位](https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml)
+
+[六镇](https://wechat2rss.xlab.app/feed/fd04a2cecf60d2f3a4da34206e11c07aca561715.xml)
