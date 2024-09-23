@@ -4,7 +4,7 @@ https://wechat2rss.xlab.app
 
 ## 目标
 
-本项目从2021.9月启动，旨在提供**长期稳定可用**的微信公众号RSS服务
+本项目从2021年9月启动，旨在提供**长期稳定可用**的微信公众号RSS服务
 
 尽力确保文章更新周期在24小时内（从作者发布到RSS收录）
 
@@ -22,7 +22,7 @@ https://wechat2rss.xlab.app
 
 ## 付费软件
 
-提供私有部署，[点击购买](https://wechat2rss.xlab.app/deploy/)
+提供私有部署，功能与公开服务一致，[点击购买](https://wechat2rss.xlab.app/deploy/)
 
 ## Thanks
 

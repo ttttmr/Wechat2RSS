@@ -1,6 +1,6 @@
 # API参考
 
-为注明均为`GET`请求
+未注明均为`GET`请求
 
 ## /login/check
 
