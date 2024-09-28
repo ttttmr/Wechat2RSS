@@ -122,13 +122,13 @@ docker pull ttttmr/wechat2rss:latest
 
 `RSS_TOKEN`处填写配置的值，如果没有配置，则不需要填写
 
-#### 微信公众号文章链接订阅
+#### 文章链接订阅
 
 填入公众号文章链接后，点击订阅
 
 订阅成功后下方会显示订阅地址
 
-#### 微信公众号ID订阅
+#### ID订阅
 
 浏览器打开公众号文章，`f12`打开控制台，输入以下代码获得一串数字，即公众号ID
 
@@ -144,6 +144,8 @@ atob(biz)
 
 ## 服务管理
 
+可以在服务配置页，配置以下功能
+
 ### 权限管理
 
 配置[RSS_TOKEN](./config#rss-token)对订阅管理进行鉴权
@@ -152,6 +154,12 @@ atob(biz)
 
 ### 配置服务异常告警
 
-配置[BOT_TG_TOKEN](./config#bot-tg-token)启用Telegram Bot
+当服务遇到被微信风控/账号推出登录灯异常情况，会发送告警信息，支持以下渠道
 
-配置[BOT_SERVER_KEY](./config#bot-server-key)启用[Server酱](https://sct.ftqq.com/)
+配置[BOT_TG_TOKEN](./config#bot-tg-token)，使用Telegram Bot告警
+
+配置[BOT_SERVER_KEY](./config#bot-server-key)，使用[Server酱](https://sct.ftqq.com/)告警
+
+配置[BOT_WEBHOOK_URL](./config#bot-server-key)，使用Webhook告警
+
+配置[BOT_BARK_URL](./config#bot-server-key)，使用[Bark](https://bark.day.app/)告警
