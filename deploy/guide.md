@@ -6,7 +6,11 @@
 
 如果你有服务器/电脑，推荐使用Docker Compose部署，推荐1G内存以上配置
 
-如果你没有服务器，也不熟悉Docker，可以[一键部署到Railway](#railway部署)
+如果你没有服务器，也不熟悉Docker，可以试试
+
+[一键部署到Railway](#railway部署)
+
+[一键部署到Sealos](#sealos部署)
 
 ## Docker Compose 部署（推荐）
 
@@ -35,54 +39,14 @@ vi docker-compose.yml
 docker compose up -d
 ```
 
+部署完成，继续[登录和使用](#登录和使用)
+
 ### 升级
 
 ```shell
 docker compose pull
 docker compose up -d
 ```
-
-## Docker部署
-
-Docker命令参考
-
-```shell
-docker run -d \
-  --name wechat2rss \
-  -v ./data:/wechat2rss \ # 数据保存目录，./data可以改成其他目录
-  -p 8080:8080 \ # 端口映射，可以改为9090:8080
-  -e LIC_EMAIL=i@xlab.app \ # 授权邮箱
-  -e LIC_CODE=f2aa6823-b2a6-4670-9acd-0e26d1204a43 \ # 激活码
-  -e RSS_HOST=192.168.123.123:8080 \ # 服务器地址
-  ttttmr/wechat2rss:latest
-```
-
-> [!IMPORTANT] 数据保存提示
-> 务必将容器`/wechat2rss`目录进行持久化保存，并妥善保管持久化之后的目录文件如`./data`
-> 后续升级或迁移服务等操作，请注意依然将此文件夹映射为容器中的`/wechat2rss`目录
-
-填写`LIC_EMAIL`、`LIC_CODE`和`RSS_HOST`等配置到环境变量中
-
-> [!TIP]
-> `-e`参数可以添加更多环境变量
-> 完整配置和说明见[参数配置](config)
-
-### 升级
-
-删除旧容器
-
-```shell
-docker stop wechat2rss
-docker rm wechat2rss
-```
-
-拉取最新镜像
-
-```shell
-docker pull ttttmr/wechat2rss:latest
-```
-
-然后重新执行安装步骤
 
 ## Railway部署
 
@@ -102,6 +66,38 @@ docker pull ttttmr/wechat2rss:latest
 > [!TIP] Railway计费说明
 > https://railway.app/pricing
 
+部署完成，继续[登录和使用](#登录和使用)
+
+## Sealos部署
+
+目前应用还[未被收录](https://github.com/labring-actions/templates/pull/326)，目前需要手动复制模板部署
+
+### 注册并登录 Sealos
+
+注册地址 https://cloud.sealos.run/?uid=Gkr1H6rWou
+
+可以用任意区域，国内国外都可以，但注意价格不同
+
+### 打开模板编辑器
+
+在主页中找到`应用商店`，点击左下角`我的应用`，再点击右上角`在线调试模板`，进入编辑器页面
+
+### 填写YAML模板
+
+模板地址 https://github.com/ttttmr/templates/blob/main/template/wechat2rss.yaml
+
+复制链接中的内容，粘贴到左侧YAML代码区
+
+### 填写邮箱和激活码等配置
+
+粘贴YAML完稍等片刻，右侧出现表单，填写邮箱和激活码等配置
+
+### 部署启动
+
+点击`试运行部署`，成功后会出现`正式部署`，点击`正式部署`
+
+再回到主页中，找到`应用管理`，点击`详情`就能看到Sealos提供的公网地址了
+
 ## 登录和使用
 
 ### 微信登录
@@ -115,9 +111,6 @@ docker pull ttttmr/wechat2rss:latest
 
 如果手机端提示异地登陆验证，请在网页中填写提交
 
-> [!TIP]
-> 完成扫码并成功登录后，若需退出当前账号或重新登录，请先在微信阅读App的设备管理删除本设备
-
 ### 添加订阅
 
 `RSS_TOKEN`处填写配置的值，如果没有配置，则不需要填写
@@ -128,7 +121,7 @@ docker pull ttttmr/wechat2rss:latest
 
 订阅成功后下方会显示订阅地址
 
-#### ID订阅
+#### 公众号ID订阅
 
 浏览器打开公众号文章，`f12`打开控制台，输入以下代码获得一串数字，即公众号ID
 
@@ -144,7 +137,7 @@ atob(biz)
 
 ## 服务管理
 
-可以在服务配置页，配置以下功能
+可以在`服务配置`页，配置以下功能
 
 ### 权限管理
 
