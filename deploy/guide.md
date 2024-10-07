@@ -12,6 +12,8 @@
 
 [一键部署到Sealos](#sealos部署)
 
+[一键部署到Zeabur](#zeabur部署)
+
 ## Docker Compose 部署（推荐）
 
 > [!TIP]
@@ -54,14 +56,14 @@ docker compose up -d
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/KIQWgJ?referralCode=t4q678)
 
-配置页填入`LIC_EMAIL`为邮箱，`LIC_CODE`为激活码
+配置页填写邮箱和激活码等配置
 
 > [!TIP]
 > 完整配置和说明见[参数配置](config)
 
 一段时间部署完成后，rss服务会自动分配一个`xxx.railway.app`的域名，打开就可以使用了
 
-默认配置RSS_TOKEN为注册的邮箱，需要在页面中填写，否则会提示`token is wrong`
+需要在页面中填写配置的`RSS_TOKEN`，否则会提示`token is wrong`
 
 > [!TIP] Railway计费说明
 > https://railway.app/pricing
@@ -98,6 +100,10 @@ docker compose up -d
 
 再回到主页中，找到`应用管理`，点击`详情`就能看到Sealos提供的公网地址了
 
+需要在页面中填写配置的`RSS_TOKEN`，否则会提示`token is wrong`
+
+部署完成，继续[登录和使用](#登录和使用)
+
 ### 计费说明
 
 目前模板配置是0.5核，512M内存，1G存储
@@ -111,6 +117,24 @@ docker compose up -d
 - 512M 3/月
 
 网络费用另算，基础开销在11-15元/月
+
+## Zeabur部署
+
+> [!TIP] 需要至少开通 Developer Plan，计费说明
+> https://zeabur.com/pricing
+
+点击一键部署，包含自动升级更新
+
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/OTAL86?referralCode=ttttmr)
+
+配置页填入邮箱和激活码等配置
+
+> [!TIP]
+> 完整配置和说明见[参数配置](config)
+
+一段时间部署完成后，rss服务会自动分配一个`xxx.zeabur.app`的域名，打开就可以使用了
+
+需要在页面中填写配置的`RSS_TOKEN`，否则会提示`token is wrong`
 
 ## 登录和使用
 

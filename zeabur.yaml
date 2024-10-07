@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=https://schema.zeabur.app/template.json
+apiVersion: zeabur.com/v1
+kind: Template
+metadata:
+    name: Wechat2RSS
+spec:
+    description: 自建微信公众号RSS服务
+    icon: https://wechat2rss.xlab.app/image/logo.png
+    variables:
+        - key: LIC_EMAIL
+          type: STRING
+          name: 激活邮箱
+          description: 激活邮箱
+        - key: LIC_CODE
+          type: STRING
+          name: 激活码
+          description: 激活码
+        - key: RSS_TOKEN
+          type: STRING
+          name: RSS_TOKEN
+          description: 创建访问密码，以保护你的服务
+        - key: PUBLIC_DOMAIN
+          type: DOMAIN
+          name: 域名
+          description: 服务域名
+    tags:
+        - API
+        - Tool
+        - Automation
+    readme: 参考 https://wechat2rss.xlab.app/deploy/
+    services:
+        - name: wechat2rss
+          icon: https://wechat2rss.xlab.app/image/logo.png
+          template: PREBUILT
+          spec:
+            source:
+                image: ttttmr/wechat2rss:latest
+            ports:
+                - id: wechat2rss
+                  port: 8080
+                  type: HTTP
+            volumes:
+                - id: data
+                  dir: /wechat2rss
+            env:
+                LIC_EMAIL:
+                    default: ${LIC_EMAIL}
+                LIC_CODE:
+                    default: ${LIC_CODE}
+                RSS_TOKEN:
+                    default: ${RSS_TOKEN}
+                RSS_HOST:
+                    default: ${PUBLIC_DOMAIN}.zeabur.app
+                RSS_HTTPS:
+                    default: "1"
+                TZ:
+                    default: "Asia/Shanghai"
+          domainKey: PUBLIC_DOMAIN
