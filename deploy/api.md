@@ -112,13 +112,21 @@
 > [!WARNING]
 > 此处修改配置如果和已配置的环境遍历冲突，服务重启后，会恢复为环境变量配置，建议删除环境变量
 
-## /feed/:id.xml
+## /feed/:id.(xml/json)
 
-RSS订阅地址
+RSS订阅地址，支持RSS和JSON Feed两种格式，通过后缀名控制，默认为xml
 
 默认`:id`为公众号ID
 
 开启[RSS_ENC_FEED_ID](./config#rss-enc-feed-id)后，`id`为`HMAC`计算后的公众号ID，密码由[RSS_SECRET](./config#rss-secret)提供
+
+## /feed/all.(xml/json)?k=xxx
+
+合集RSS订阅地址，支持RSS和JSON Feed两种格式，通过后缀名控制，默认为xml
+
+`k`参数为[RSS_TOKEN](./config#rss-token)配置值，如果未设置，则不需要该参数
+
+此接口开启[RSS_STATIC](./config#rss-static)时无效
 
 ## /refresh
 

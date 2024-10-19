@@ -1,5 +1,12 @@
 # 发布记录
 
+## v1.1.18
+
+2024-10-19
+
+- feat: `/feed/`接口支持`xml/json`格式切换，详细参考[/feed/:id.(xml/json)](./api#feed-id-xml-json)
+- feat: 合集订阅接口`/feed/all?k=`，详细参考[/feed/all](./api#feed-all-xml-json-k-xxx)
+
 ## v1.1.17
 
 2024-10-15
