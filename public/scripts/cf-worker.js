@@ -8,7 +8,12 @@ function error(msg) {
 
 async function wfetch(url, opt) {
   if (!opt) {
-    opt = {};
+    opt = {
+      headers: {},
+    };
+  }
+  if (!opt["headers"]) {
+    opt["headers"] = {};
   }
   opt.headers["Referer"] = "https://mp.weixin.qq.com";
   opt.headers["User-Agent"] =
