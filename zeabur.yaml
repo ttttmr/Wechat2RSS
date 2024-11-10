@@ -19,10 +19,14 @@ spec:
           type: STRING
           name: RSS_TOKEN
           description: 创建访问密码，以保护你的服务
+        - key: RSS_HOST
+          type: STRING
+          name: RSS_TOKEN
+          description: 完整域名
         - key: PUBLIC_DOMAIN
           type: DOMAIN
-          name: 域名
-          description: 服务域名
+          name: 绑定
+          description: 服务绑定域名
     tags:
         - API
         - Tool
@@ -50,7 +54,7 @@ spec:
                 RSS_TOKEN:
                     default: ${RSS_TOKEN}
                 RSS_HOST:
-                    default: ${PUBLIC_DOMAIN}.zeabur.app
+                    default: ${RSS_HOST}
                 RSS_HTTPS:
                     default: "1"
                 TZ:
