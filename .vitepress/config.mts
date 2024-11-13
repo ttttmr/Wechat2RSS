@@ -57,6 +57,7 @@ export default defineConfig({
       {
         text: '私有部署文档',
         items: [
+          { text: '部署指南', link: '/deploy/deploy' },
           { text: '使用指南', link: '/deploy/guide' },
           { text: '常见问题', link: '/deploy/qa' },
           { text: '服务配置', link: '/deploy/config' },
