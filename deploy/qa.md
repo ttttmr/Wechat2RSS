@@ -22,6 +22,12 @@ docker logs wechat2rss -n 100
 docker compose logs -n 100
 ```
 
+## k param is empty
+
+1.2.0版本起，服务开启强制鉴权
+
+需要填写`RSS_TOKEN`才能使用服务，详细查看[登录服务](./guide#登录服务)
+
 ## 频率限制/微信风控问题
 
 日志中体现为`被微信限频...`或者`need check`，如果配置了消息通知，收到消息通知为`需要验证`
