@@ -21,7 +21,7 @@ spec:
           description: 创建访问密码，以保护你的服务
         - key: RSS_HOST
           type: STRING
-          name: RSS_TOKEN
+          name: RSS_HOST
           description: 完整域名
         - key: PUBLIC_DOMAIN
           type: DOMAIN
