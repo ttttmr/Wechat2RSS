@@ -6,7 +6,7 @@
 
 如果你有服务器/电脑，推荐使用Docker Compose部署，推荐1G内存以上配置
 
-如果你没有服务器，也不熟悉Docker，可以试试
+如果你没有服务器，或不熟悉Docker，可以试试云服务
 
 [一键部署到Railway](#railway部署)
 
@@ -72,35 +72,17 @@ docker compose up -d
 
 ## Sealos部署
 
-目前应用还[未被收录](https://github.com/labring-actions/templates/pull/326)，目前需要手动复制模板部署
-
 ### 注册并登录 Sealos
 
-注册地址 https://cloud.sealos.run/?uid=Gkr1H6rWou
+注册地址 [https://cloud.sealos.run](https://cloud.sealos.run/?uid=Gkr1H6rWou)
 
 可以用任意区域，国内国外都可以，但注意价格不同
 
-### 打开模板编辑器
+### 部署
 
-在主页中找到`应用商店`，点击左下角`我的应用`，再点击右上角`在线调试模板`，进入编辑器页面
+在主页中找到`应用商店`，搜索`Wechat2RSS`
 
-### 填写YAML模板
-
-模板地址 https://github.com/ttttmr/templates/blob/main/template/wechat2rss.yaml
-
-复制链接中的内容，粘贴到左侧YAML代码区
-
-### 填写邮箱和激活码等配置
-
-粘贴YAML完稍等片刻，右侧出现表单，填写邮箱和激活码等配置
-
-### 部署启动
-
-点击`试运行部署`，成功后会出现`正式部署`，点击`正式部署`
-
-再回到主页中，找到`应用管理`，点击`详情`就能看到Sealos提供的公网地址了
-
-需要在页面中填写配置的`RSS_TOKEN`，否则会提示`token is wrong`
+填写邮箱和激活码等配置后点击部署
 
 部署完成后，继续[登录和使用](guide)
 

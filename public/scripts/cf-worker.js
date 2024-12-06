@@ -41,7 +41,7 @@ async function hmachex(message) {
 async function vproxy(docUrl, vid) {
   const doc = await wfetch(docUrl);
   const html = await doc.text();
-  const reg = new RegExp(vid + `'[\\s\\S]+?(mpvideo\\.qpic\\.cn/.+?)'`);
+  const reg = new RegExp(vid + `'[\\s\\S]{0,2000}?(mpvideo\\.qpic\\.cn/.+?)'`);
   const match = reg.exec(html);
   if (match) {
     const vurl = "https://" + match[1].replaceAll("\\x26amp;", "&");

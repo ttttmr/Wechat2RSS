@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://schema.zeabur.app/template.json
+# npx zeabur template update -c OTAL86 -f zeabur.yaml
 apiVersion: zeabur.com/v1
 kind: Template
 metadata:
@@ -15,10 +16,6 @@ spec:
           type: STRING
           name: 激活码
           description: 激活码
-        - key: RSS_TOKEN
-          type: STRING
-          name: RSS_TOKEN
-          description: 创建访问密码，以保护你的服务
         - key: RSS_HOST
           type: STRING
           name: RSS_HOST

@@ -111,6 +111,16 @@ RSS_MAX_ITEM_COUNT=20
 
 控制RSS最大输出文章数量，默认为20
 
+## RSS_KEEP_OLD_COUNT
+
+```shell
+RSS_MAX_ITEM_COUNT=50
+```
+
+保留每个公众号历史文章数量，默认为50
+
+设置为-1时，保留所有已爬取的历史文章
+
 ## RSS_PROXY_SECRET
 
 ```shell

@@ -1,5 +1,14 @@
 # 发布记录
 
+## v1.2.4
+
+2024-12-07
+
+- feat: 更新策略算法调整，减少风控问题
+- feat: 通过[RSS_KEEP_OLD_COUNT](./config#rss-keep-old-count)控制保留历史文章，默认50
+- feat: 增加报错提示和文档
+- fix: [Serverless代理](./serverless)视频错误，需更新服务
+
 ## v1.2.3
 
 2024-11-25
