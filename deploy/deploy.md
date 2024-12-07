@@ -2,8 +2,6 @@
 
 软件以Docker镜像的形式发布，Docker镜像为`ttttmr/wechat2rss`，有`amd64`和`arm64`两个版本，支持Apple Silicon
 
-## 部署安装与升级
-
 如果你有服务器/电脑，推荐使用Docker Compose部署，推荐1G内存以上配置
 
 如果你没有服务器，或不熟悉Docker，可以试试云服务
@@ -47,6 +45,14 @@ docker compose up -d
 
 ```shell
 docker compose pull
+docker compose up -d
+```
+
+### 迁移
+
+复制整个部署的文件夹到新服务器，在文件夹里启动服务
+
+```shell
 docker compose up -d
 ```
 
