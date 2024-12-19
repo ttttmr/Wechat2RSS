@@ -106,6 +106,9 @@ docker compose up -d
 
 网络费用另算，基础开销在11-15元/月
 
+> [!TIP]
+> 计费价格可能有变动，以官网费用中心计价为准
+
 ## Zeabur部署
 
 > [!TIP] 需要至少开通 Developer Plan，计费说明
