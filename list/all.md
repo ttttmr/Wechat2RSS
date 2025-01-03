@@ -648,6 +648,12 @@
 
 [数说安全](https://wechat2rss.xlab.app/feed/b15a925f83a4b108b957f8dd0e8030b6caa7da5e.xml)
 
+[securitainment](https://wechat2rss.xlab.app/feed/8dd9857e540441b90ee86986df74b5e1a96d2abb.xml)
+
+[奇安信技术研究院](https://wechat2rss.xlab.app/feed/77a8d89f12dcb0aa75a19731e474a63427089081.xml)
+
+[冲鸭安全](https://wechat2rss.xlab.app/feed/25499156ea68aa4ac597801e9be69707e31bba73.xml)
+
 ## 开发
 
 [腾讯技术工程](https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml)

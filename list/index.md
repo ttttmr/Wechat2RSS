@@ -15,6 +15,6 @@
 
 ## 快捷订阅合集
 
-[安全相关公众号Inoreader订阅](https://www.inoreader.com/bundle/0014cd641489)
+~~[安全相关公众号Inoreader订阅](https://www.inoreader.com/bundle/0014cd641489)~~ 不再更新
 
 [安全相关公众号opml文件](https://wechat2rss.xlab.app/opml/sec.opml)
