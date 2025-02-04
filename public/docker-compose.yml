@@ -16,3 +16,7 @@ services:
         condition: on-failure
         max_attempts: 3
         window: 10s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
