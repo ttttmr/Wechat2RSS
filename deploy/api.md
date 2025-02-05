@@ -49,7 +49,7 @@ API通过url中的k参数进行鉴权，`k`参数为[RSS_TOKEN](./config#rss-tok
             "id": 12345, // 账号id
             "name": "xxx", // 账号昵称
             "available": true, // 登录是否正常
-            "errCount": 0, // 当前风控次数
+            "errCount": 0, // 当前风控次数，大于0则正在风控中
             "waitTime": "2024-11-10 21:46:45" // 下次检查风控状态时间
         }
         ...
