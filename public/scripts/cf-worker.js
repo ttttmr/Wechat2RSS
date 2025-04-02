@@ -102,6 +102,7 @@ async function main(req, env) {
     const wxUrl = new URL(url);
     if (
       wxUrl.hostname !== "mmbiz.qpic.cn" &&
+      wxUrl.hostname !== "mmecoa.qpic.cn" &&
       wxUrl.hostname !== "res.wx.qq.com" &&
       wxUrl.hostname !== "mpvideo.qpic.cn" &&
       wxUrl.hostname !== "mp.weixin.qq.com"
