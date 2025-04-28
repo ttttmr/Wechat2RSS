@@ -10,6 +10,8 @@
 
 [一键部署到Sealos](#sealos部署)
 
+[一键部署到Claw Cloud](#claw部署)
+
 [一键部署到Zeabur](#zeabur部署)
 
 ## Docker Compose 部署（推荐）
@@ -108,6 +110,46 @@ docker compose up -d
 
 > [!TIP]
 > 计费价格可能有变动，以官网费用中心计价为准
+
+### 补充说明
+
+> 此处说明有时效性，更新于2025.3.19
+
+1. 可能会出现容器一直创建中，需要等待或更换其他部署区域
+2. 可能会出现加载微信二维码报错，如果一直报错，找sealos工单，或者更换其他部署区域
+3. 可能会出现部分文章没有全文，由于sealos容器共享出口IP，IP容易被微信封禁导致，可以更换其他部署区域（如腾讯云机房）
+
+## Claw Cloud部署
+
+和Sealos差不多
+
+### 注册并登录 Claw Cloud
+
+注册地址 [https://cloud.claw.cloud](https://console.run.claw.cloud/signin?link=6NHV5N8VZQ8J)
+
+### 部署
+
+目前还未上架商店，需要手动填写配置
+
+1. 进入`App Store`
+2. 选择`My Apps`页面
+3. 点击右上角的`Debugging`按钮，进入编辑页面
+4. 复制[这里的配置内容](https://github.com/ttttmr/templates/blob/main/template/wechat2rss.yaml)，填写到左侧
+5. 此时右侧出现配置表单，填写邮箱和激活码
+6. 点击右上角`Test Deployment`，等待完成
+7. 点击右上角的`Deploy`，完成部署
+
+### 查看服务
+
+进入`App Store`，选择`My Apps`页面就能看到部署的应用，进入应用后点击第一个`Details`查看详情
+
+在`Network`中找到`Public Address`，即是访问地址
+
+在`Pod List`中，点击`Logs`可以查看服务日志
+
+部署完成后，继续[登录和使用](guide)
+
+### 计费说明
 
 ## Zeabur部署
 

@@ -38,12 +38,15 @@ ps: 时长按天计算，月=30天，年=365天
 
 续费同价，备注相同的邮箱即可，[早期用户续费优惠说明](#早期用户优惠)
 
+> [!TIP] 服务不可用，暂停付费
+> https://github.com/ttttmr/Wechat2RSS/issues/245
+
 > [!IMPORTANT] 扫码付款务必备注邮箱，发送激活码到邮箱
 > 24小时内发送，注意查收来自`i@xlab.app`的邮件
 > 
 > 邮箱超过长度限制的，可以备注一部分，并使用该邮箱将账单截图发到[i@xlab.app](mailto:i@xlab.app)
 
-![qrcode](/image/wx.jpg)
+<!-- ![qrcode](/image/wx.jpg) -->
 
 ## 早期用户优惠
 
