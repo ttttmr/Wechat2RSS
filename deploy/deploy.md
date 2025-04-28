@@ -2,11 +2,11 @@
 
 软件以Docker镜像的形式发布，Docker镜像为`ttttmr/wechat2rss`，有`amd64`和`arm64`两个版本，支持Apple Silicon
 
-如果你有服务器/电脑，推荐使用Docker Compose部署，推荐1G内存以上配置
+如果你有服务器，推荐使用Docker Compose部署，推荐512M内存以上配置
 
 如果你没有服务器，或不熟悉Docker，可以试试云服务
 
-[一键部署到Railway](#railway部署)
+[一键部署到Railway（推荐）](#railway部署)
 
 [一键部署到Sealos](#sealos部署)
 
@@ -58,9 +58,9 @@ docker compose up -d
 docker compose up -d
 ```
 
-## Railway部署
+## Railway部署（推荐）
 
-点击一键部署，包含自动升级更新
+点击一键部署，**包含自动升级更新**
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/KIQWgJ?referralCode=t4q678)
 
@@ -119,6 +119,10 @@ docker compose up -d
 2. 可能会出现加载微信二维码报错，如果一直报错，找sealos工单，或者更换其他部署区域
 3. 可能会出现部分文章没有全文，由于sealos容器共享出口IP，IP容易被微信封禁导致，可以更换其他部署区域（如腾讯云机房）
 
+### 升级
+
+在应用管理中点`变更`，无需修改直接变更即可
+
 ## Claw Cloud部署
 
 和Sealos差不多
@@ -168,3 +172,6 @@ docker compose up -d
 一段时间部署完成后，rss服务会自动分配一个`xxx.zeabur.app`的域名，打开就可以使用了
 
 部署完成后，继续[登录和使用](guide)
+
+### 升级
+

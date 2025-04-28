@@ -42,20 +42,6 @@ docker logs wechat2rss -n 100
 docker compose logs -n 100
 ```
 
-### 机器配置要求
-
-由于内嵌Chromium，内存需求较高，建议配置1G以上内存
-
-但如果你手头只有小内存机器，也可以尝试部署
-
-比如railway上512M内存机器也能运行
-
-> [!TIP] 即使未付费，也可以尝试部署验证
-> 不填写LIC相关配置即可
-> 正常运行后会在日志中提示没有Licence
-
-如果遇到报错如`fatal error: runtime: out of memory`，则说明内存不够
-
 ### 服务迁移
 
 如更换VPS部署，复制数据目录，保持相同的文件目录结构后直接启动即可
