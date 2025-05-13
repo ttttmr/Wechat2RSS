@@ -49,7 +49,7 @@ API通过url中的k参数进行鉴权，`k`参数为[RSS_TOKEN](./config#rss-tok
             "id": 12345, // 账号id
             "name": "xxx", // 账号昵称
             "available": true, // 登录是否正常
-            "errCount": 0, // 当前风控次数，大于0则正在风控中
+            "needCheck": true, // 是否风控中
             "waitTime": "2024-11-10 21:46:45" // 下次检查风控状态时间
         }
         ...
@@ -206,15 +206,15 @@ RSS订阅地址，支持RSS和JSON Feed两种格式，通过后缀名控制，�
 例子
 - 查询指定公众号，发布时间晚于2025年4月9日0点的文章
 
-`/query?k=token&bid=12345&after=20250409`
+`/api/query?k=token&bid=12345&after=20250409`
 
 - 查询所有公众号，发布时间晚于2025年4月9日0点的文章
 
-`/query?k=token&after=20250409`
+`/api/query?k=token&after=20250409`
 
 - 查询指定公众号的所有文章
 
-`/query?k=token&bid=12345`
+`/api/query?k=token&bid=12345`
 
 接口返回值为JSON格式数据
 

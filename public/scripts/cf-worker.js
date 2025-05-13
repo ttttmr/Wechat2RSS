@@ -105,6 +105,7 @@ async function main(req, env) {
       wxUrl.hostname !== "mmecoa.qpic.cn" &&
       wxUrl.hostname !== "res.wx.qq.com" &&
       wxUrl.hostname !== "mpvideo.qpic.cn" &&
+      wxUrl.hostname !== "findermp.video.qq.com" &&
       wxUrl.hostname !== "mp.weixin.qq.com"
     ) {
       return error("Url is invalid");
