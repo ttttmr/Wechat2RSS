@@ -1,10 +1,11 @@
 # 常见问题 Q&A
 
-遇到问题可在[GitHub中提Issue](https://github.com/ttttmr/Wechat2RSS/issues)
+遇到问题可在[GitHub中提Issue](https://github.com/ttttmr/Wechat2RSS/issues)，选择`Bug反馈`，将被优先处理
 
-用户Telegram群组：[邀请链接](https://t.me/+8COw6-luUoVlZGVh)
+可选进用户群咨询，请在群聊中提问，除涉及隐私/账单问题外不接受私聊咨询
 
-微信群：加微信ie11235，备注wechat2rss
+- Telegram群：[邀请链接](https://t.me/+8COw6-luUoVlZGVh)
+- 微信群：加微信ie11235邀请进群，备注wechat2rss
 
 ## 微信风控相关
 
@@ -41,6 +42,8 @@ docker logs wechat2rss -n 100
 ```shell
 docker compose logs -n 100
 ```
+
+其他部署方式请在[部署指南](./deploy)中查看
 
 ### 服务迁移
 

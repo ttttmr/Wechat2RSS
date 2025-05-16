@@ -5,8 +5,8 @@ labels: ["bug"]
 body:
   - type: input
     attributes:
-      label: 版本
-      description: 访问/version查看
+      label: 服务版本
+      description: 在服务配置页可查看服务版本
     validations:
       required: true
   - type: textarea
