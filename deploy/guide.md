@@ -19,7 +19,7 @@ docker compose logs
 "--- CONIF ---"
 ```
 
-其他部署方式自行查看日志
+其他部署方式自行查看日志，参考[部署指南](deploy)
 
 在页面`RSS_TOKEN`处填写密码，点击`确定`
 

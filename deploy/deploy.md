@@ -6,7 +6,7 @@
 
 如果你没有服务器，或不熟悉Docker，可以试试云服务
 
-[一键部署到Railway（推荐）](#railway部署)
+[一键部署到Railway](#railway部署)
 
 [一键部署到Sealos](#sealos部署)
 
@@ -58,7 +58,7 @@ docker compose up -d
 docker compose up -d
 ```
 
-## Railway部署（推荐）
+## Railway部署
 
 点击一键部署，**包含自动升级更新**
 

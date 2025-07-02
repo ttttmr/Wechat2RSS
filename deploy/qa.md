@@ -1,11 +1,17 @@
 # 常见问题 Q&A
 
-遇到问题可在[GitHub中提Issue](https://github.com/ttttmr/Wechat2RSS/issues)，选择`Bug反馈`，将被优先处理
+Bug反馈：在[GitHub中提Issue](https://github.com/ttttmr/Wechat2RSS/issues)，选择`Bug反馈`
 
-可选进用户群咨询，请在群聊中提问，除涉及隐私/账单问题外不接受私聊咨询
+问题咨询：在[Discussions中提问](https://github.com/ttttmr/Wechat2RSS/discussions/categories/q-a)
 
-- Telegram群：[邀请链接](https://t.me/+8COw6-luUoVlZGVh)
-- 微信群：加微信ie11235邀请进群，备注wechat2rss
+## 服务可用性
+
+公开服务和私有部署软件一直，可以通过观测公开服务更新情况判断
+
+以下是一些经常更新的公众号
+
+- [中国政府网](https://wechat2rss.xlab.app/feed/dbd2adffac6759c353702555dea8716dff75c4be.xml)
+- [猫笔刀](https://wechat2rss.xlab.app/feed/33d986064f59be5263de2ca822fb3e0bdd59eb81.xml)
 
 ## 微信风控相关
 
@@ -21,7 +27,7 @@
 
 目前设计每次触发微信限制，都会将等待时间乘以2
 
-初次等待15分钟，15分钟后发现仍然未解封，将等待30分钟，以此类推60分钟，120分钟...，最大等待时间为3小时
+初次等待15分钟，15分钟后发现仍然未解封，将等待30分钟，以此类推60分钟，120分钟...，最大等待时间为6小时
 
 当发现已经解封时，将会重置下次等待时间为15分钟
 
