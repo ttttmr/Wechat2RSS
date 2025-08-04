@@ -797,3 +797,5 @@
 [六镇](https://wechat2rss.xlab.app/feed/fd04a2cecf60d2f3a4da34206e11c07aca561715.xml)
 
 [阿里云设计中心](https://wechat2rss.xlab.app/feed/31e04606d37f684059e23a8fd3e05f1db0186495.xml)
+
+[宁化广播电视台](https://wechat2rss.xlab.app/feed/80e37d4c354c029e46604ab20ea46db30bd4fcc3.xml)
