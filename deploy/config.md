@@ -196,9 +196,9 @@ BOT_WEBHOOK_URL=https://xxx.com/webhook/xx
 
 ```json
 {
-    "msg_type": "text", // 固定值
-    "content": {
-        "text": "hello" // 消息内容
+    "msgtype": "text", // 固定值
+    "text": {
+        "content": "hello" // 消息内容
     }
 }
 ```
