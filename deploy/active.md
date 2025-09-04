@@ -32,7 +32,7 @@ export default {
       }
       this.status = "提交中...";
 
-      fetch("/auth/clear", {
+      fetch("https://wechat2rss.xlab.app/auth/clear", {
         method: "POST",
         header: {
           "content-type": "application/json;charset=utf-8",
@@ -44,7 +44,39 @@ export default {
       })
         .then((res) => res.json())
         .then((res) => {
-          console.info("code send", res);
+          console.info("clear res", res);
+          if (res.ok) {
+            this.status = res.data;
+          } else {
+            console.error(res.err);
+            this.status = res.err;
+          }
+        })
+        .catch((e) => {
+          console.error(e);
+          this.status = e.message;
+        });
+    },
+    query() {
+      if (!(this.email && this.code)) {
+        this.status = "输入邮箱和激活码";
+        return;
+      }
+      this.status = "查询中...";
+
+      fetch("https://wechat2rss.xlab.app/auth/query", {
+        method: "POST",
+        header: {
+          "content-type": "application/json;charset=utf-8",
+        },
+        body: JSON.stringify({
+          email: this.email,
+          code: this.code,
+        }),
+      })
+        .then((res) => res.json())
+        .then((res) => {
+          console.info("query res", res);
           if (res.ok) {
             this.status = res.data;
           } else {
@@ -69,6 +101,15 @@ export default {
 }
 .button {
   font-weight: bold;
+  padding: 4px 12px;
+  border-radius: 4px;
+  border: 1px solid #1c6edb;
+  background-color: #4f9cff;
+  color: white;
+  margin-right: 10px;
+}
+.status {
+  white-space: pre-wrap;
 }
 </style>
 
@@ -76,6 +117,8 @@ export default {
 
 激活码：<input :class="$style.input" v-model="code">
 
-状态：{{ status }}
+<button :class="$style.button" @click="query">查询</button> <button :class="$style.button" @click="submit">反激活</button>
 
-<button :class="$style.button" @click="submit">提交反激活</button>
+结果：
+
+<div :class="$style.status">{{ status }}</div>
