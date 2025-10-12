@@ -6,7 +6,7 @@ Bug反馈：在[GitHub中提Issue](https://github.com/ttttmr/Wechat2RSS/issues)�
 
 ## 服务可用性
 
-公开服务和私有部署软件一直，可以通过观测公开服务更新情况判断
+公开服务和私有部署软件一致，可以通过观测公开服务更新情况判断
 
 以下是一些经常更新的公众号
 
