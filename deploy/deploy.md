@@ -84,6 +84,8 @@ docker compose up -d
 
 会自动升级，也可以手动升级
 
+在`Settings-Source-Upstream Repo`中点`Update`
+
 ## Sealos部署
 
 ### 注册并登录 Sealos
