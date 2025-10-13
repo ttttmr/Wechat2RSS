@@ -1,7 +1,6 @@
 {
     "$schema": "https://railway.app/railway.schema.json",
     "build": {
-        "buildCommand": "./script/build.sh",
         "watchPatterns": [
             "/deploy/changelog.md",
             "/script/*",
