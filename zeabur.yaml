@@ -16,14 +16,14 @@ spec:
           type: STRING
           name: 激活码
           description: 激活码
-        - key: RSS_HOST
-          type: STRING
-          name: RSS_HOST
-          description: 完整域名
         - key: PUBLIC_DOMAIN
           type: DOMAIN
           name: 绑定
           description: 服务绑定域名
+        - key: RSS_HOST
+          type: STRING
+          name: RSS_HOST
+          description: 完整的服务绑定域名
     tags:
         - API
         - Tool
@@ -48,8 +48,6 @@ spec:
                     default: ${LIC_EMAIL}
                 LIC_CODE:
                     default: ${LIC_CODE}
-                RSS_TOKEN:
-                    default: ${RSS_TOKEN}
                 RSS_HOST:
                     default: ${RSS_HOST}
                 RSS_HTTPS:
