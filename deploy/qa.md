@@ -111,6 +111,6 @@ docker compose down
 
 程序只抓取最新20篇，不抓取历史文章
 
-存储数量受[RSS_KEEP_OLD_COUNT](./config#RSS_KEEP_OLD_COUNT)配置限制
+存储数量受[RSS_KEEP_OLD_COUNT](./config#rss-keep-old-count)配置限制
 
-RSS输出数量受[RSS_MAX_ITEM_COUNT](./config#RSS_KEEP_NEW_COUNT)配置限制
+RSS输出数量受[RSS_MAX_ITEM_COUNT](./config#rss-max-item-count)配置限制
