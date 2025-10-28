@@ -104,3 +104,13 @@ docker compose down
 新增订阅默认为数字，在爬取完数据后会展示为名字
 
 如果长时间都显示为数字，可能是因为账号被风控爬数据失败，解除风控查看[这里](./guide#手动解除风控)
+
+### 历史文章说明
+
+程序逻辑：抓取->存储->输出
+
+程序只抓取最新20篇，不抓取历史文章
+
+存储数量受[RSS_KEEP_OLD_COUNT](./config#RSS_KEEP_OLD_COUNT)配置限制
+
+RSS输出数量受[RSS_MAX_ITEM_COUNT](./config#RSS_KEEP_NEW_COUNT)配置限制

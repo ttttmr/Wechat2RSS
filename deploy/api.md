@@ -213,7 +213,7 @@ RSS订阅地址，支持RSS和JSON Feed两种格式，通过后缀名控制，�
 
 `/api/query?k=token&after=20250409`
 
-- 查询指定公众号的所有文章
+- 查询指定公众号的所有文章，参考[历史文章说明](./qa#历史文章说明)
 
 `/api/query?k=token&bid=12345`
 
