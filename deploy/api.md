@@ -100,6 +100,14 @@ API通过url中的k参数进行鉴权，`k`参数为[RSS_TOKEN](./config#rss-tok
 
 根据公众号ID删除订阅
 
+## /pause/:id?status=bool
+
+> [!TIP] 需要鉴权
+
+根据公众号ID设定是否暂停爬取
+
+`status`为`true`时暂停，`false`时恢复爬取
+
 ## /list
 
 > [!TIP] 需要鉴权
