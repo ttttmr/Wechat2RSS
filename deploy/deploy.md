@@ -14,7 +14,7 @@
 
 [一键部署到Zeabur](#zeabur部署)
 
-## Docker Compose 部署（推荐）
+## Docker Compose 部署
 
 > [!TIP]
 > 一键安装Docker和Docker Compose
@@ -67,8 +67,6 @@ docker compose up -d
 配置页填写邮箱和激活码等配置
 
 一段时间部署完成后，rss服务会自动分配一个`xxx.railway.app`的域名，打开就可以使用了
-
-需要在页面中填写配置的`RSS_TOKEN`，否则会提示`token is wrong`
 
 > [!TIP] Railway计费说明
 > https://railway.app/pricing
@@ -136,7 +134,7 @@ docker compose up -d
 2. 可能会出现加载微信二维码报错，如果一直报错，找sealos工单，或者更换其他部署区域
 3. 可能会出现部分文章没有全文，由于sealos容器共享出口IP，IP容易被微信封禁导致，可以更换其他部署区域（如腾讯云机房）
 
-## Claw Cloud部署
+## Claw部署
 
 和Sealos差不多
 

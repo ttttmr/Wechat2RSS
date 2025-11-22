@@ -2,7 +2,7 @@
 
 ## 登录服务
 
-查看日志，找到日志中的`Token`，为服务登录密码
+查看日志，找到日志中的`Token`，为服务密码
 
 如使用docker compose部署，使用这个命令查看日志
 
@@ -15,13 +15,11 @@ docker compose logs
 ```
 "--- CONIF ---"
 "Addr: https://xxxxx"
-"Token: hh1xQC6Uqy" // 密码在这里
+"Token: xxxx" // 密码在这里
 "--- CONIF ---"
 ```
 
-其他部署方式自行查看日志，参考[部署指南](deploy)
-
-在页面`RSS_TOKEN`处填写密码，点击`确定`
+如果没有找到可以重启再看，其他部署方式自行查看日志，参考[部署指南](deploy)
 
 如需修改密码，到服务配置处修改`RSS_TOKEN`后，点击保存即可
 

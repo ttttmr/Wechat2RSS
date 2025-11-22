@@ -43,7 +43,7 @@ ps: 时长按天计算，月=30天，年=365天
 > 
 > 邮箱超过长度限制的，可以备注一部分，并使用该邮箱将账单截图发到[i@xlab.app](mailto:i@xlab.app)
 > 
-> 账单邮件可能被识别为垃圾邮件导致无法收到，如果超过24小时未回复邮件，可以[加群反馈](./qa)
+> 账单邮件可能被识别为垃圾邮件导致无法收到，如果超过24小时未回复邮件，可以在[这里反馈](https://github.com/ttttmr/Wechat2RSS/discussions/categories/general)
 
 ![qrcode](/image/wx.jpg)
 
