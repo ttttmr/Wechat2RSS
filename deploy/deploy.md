@@ -33,6 +33,7 @@ vi docker-compose.yml
 ```
 
 > [!TIP]
+> 如果Docker Hub无法访问，可以替换镜像为`docker.xlab.app/ttttmr/wechat2rss:latest`
 > 完整配置和说明见[参数配置](config)
 
 启动服务
