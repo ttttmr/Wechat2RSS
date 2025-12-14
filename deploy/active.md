@@ -9,7 +9,7 @@
 > [!TIP] 激活数据库
 > 保存在数据目录中的`res.db`数据库中，数据目录是指容器内`/wechat2rss`目录
 
-## 取消激活
+## 自助服务
 
 提供自助取消激活功能，提交后自动重置激活信息，并将当前所有设备取消激活
 
@@ -117,7 +117,7 @@ export default {
 
 激活码：<input :class="$style.input" v-model="code">
 
-<button :class="$style.button" @click="query">查询</button> <button :class="$style.button" @click="submit">反激活</button>
+<button :class="$style.button" @click="query">查询信息</button> <button :class="$style.button" @click="submit">取消激活</button>
 
 结果：
 
