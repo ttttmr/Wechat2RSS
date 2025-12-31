@@ -1,4 +1,3 @@
-version: '3'
 services:
   wechat2rss:
     container_name: wechat2rss
