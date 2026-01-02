@@ -51,19 +51,24 @@ export default defineConfig({
         items: [
           { text: '购买和定价', link: '/deploy/' },
           { text: '激活说明', link: '/deploy/active' },
+          {
+            text: '部署',
+            items: [
+              { text: '部署指南', link: '/deploy/deploy' },
+              { text: '内网部署', link: '/deploy/local' },
+              { text: 'Serverless代理', link: '/deploy/serverless' },
+            ]
+          },
+          {
+            text: '使用',
+            items: [
+              { text: '使用指南', link: '/deploy/guide' },
+              { text: '服务配置', link: '/deploy/config' },
+              { text: 'API参考', link: '/deploy/api' },
+              { text: '常见问题', link: '/deploy/qa' },
+            ]
+          },
           { text: '发布记录', link: '/deploy/changelog' },
-        ]
-      },
-      {
-        text: '私有部署文档',
-        items: [
-          { text: '部署指南', link: '/deploy/deploy' },
-          { text: '内网部署', link: '/deploy/local' },
-          { text: 'Serverless代理', link: '/deploy/serverless' },
-          { text: '使用指南', link: '/deploy/guide' },
-          { text: '服务配置', link: '/deploy/config' },
-          { text: 'API参考', link: '/deploy/api' },
-          { text: '常见问题', link: '/deploy/qa' },
         ]
       },
     ],

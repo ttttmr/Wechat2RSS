@@ -112,7 +112,9 @@ API通过url中的k参数进行鉴权，`k`参数为[RSS_TOKEN](./config#rss-tok
 
 > [!TIP] 需要鉴权
 
-列出所有订阅的公众号
+默认列出所有订阅的公众号，可通过`page`和`size`参数进行分页，以及`name`参数进行过滤
+
+`/list?page=1&size=20&name=xxx`
 
 返回数据为如下JSON格式数据：
 
@@ -131,7 +133,10 @@ API通过url中的k参数进行鉴权，`k`参数为[RSS_TOKEN](./config#rss-tok
             "link": "http://xxx",
         }
         ...
-    ]
+    ],
+    "meta": {
+        "total": 100, // 公众号总数
+    }
 }
 ```
 
