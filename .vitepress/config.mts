@@ -50,6 +50,7 @@ export default defineConfig({
         text: '私有部署',
         items: [
           { text: '购买和定价', link: '/deploy/' },
+          { text: '用户协议', link: '/deploy/agreement' },
           { text: '激活说明', link: '/deploy/active' },
           {
             text: '部署',

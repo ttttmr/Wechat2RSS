@@ -36,14 +36,15 @@
 
 ps: 时长按天计算，月=30天，年=365天
 
-续费同价，备注相同的邮箱即可，[早期用户续费优惠说明](#早期用户优惠)
+续费同价，备注相同的邮箱即可，服务无需操作，自动更新，[早期用户续费优惠说明](#早期用户优惠)
 
 > [!IMPORTANT] 扫码付款务必备注邮箱，发送激活码到邮箱
-> 24小时内发送，注意查收来自`i@xlab.app`的邮件
 > 
 > 邮箱超过长度限制的，可以备注一部分，并使用该邮箱将账单截图发到[i@xlab.app](mailto:i@xlab.app)
 > 
-> 账单邮件可能被识别为垃圾邮件导致无法收到，如果超过24小时未回复邮件，可以在[这里反馈](https://github.com/ttttmr/Wechat2RSS/discussions/categories/general)
+> 激活码在24小时内发送，注意可能在垃圾箱，超过24小时未回复邮件，可以在[这里反馈](https://github.com/ttttmr/Wechat2RSS/discussions/categories/general)
+> 
+> **购买前请务必阅读[用户协议](./agreement)，仅允许个人学习和研究使用，禁止商用和内容分发**
 
 ![qrcode](/image/wx.jpg)
 
