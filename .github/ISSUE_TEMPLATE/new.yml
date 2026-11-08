@@ -23,6 +23,6 @@ body:
   - type: textarea
     attributes:
       label: 文章链接
-      description: 分享几篇你认为写的好的文章
+      description: 分享几篇你认为写的好的文章（会成为评估这个号是否值得收录的重要依据）
     validations:
       required: true
